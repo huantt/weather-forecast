@@ -1,15 +1,10 @@
+## Today's Weather
 
-## About me
-I'm Jack!
-
-Software engineer | DevOps | Gopher 🇻🇳
-
-### Today's Weather
 <div align="center">
 
 `Hanoi, Vietnam - 09/09/2023`
 
-<img src="//cdn.weatherapi.com/weather/64x64/day/302.png"></img>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img>
 
 Moderate rain
 </div>
@@ -21,7 +16,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="//cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
@@ -37,7 +32,7 @@ Moderate rain
     </tr>
 </table>
 
-### Weather For Next 7 days
+## Weather For Next 7 days
 
 <table>
     <tr>
@@ -46,7 +41,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="//cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="//cdn.weatherapi.com/weather/64x64/day/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
@@ -54,7 +49,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.3 -  35.4 °C</td><td>25.8 °C -  34.9 °C</td><td>24.6 °C -  28 °C</td><td>24.4 °C -  31.9 °C</td><td>25 °C -  32 °C</td><td>23 °C -  23.9 °C</td><td>23.1 °C -  31.4 °C</td>
+        <td>26.3 -  35.4 °C</td><td>25.8 -  34.9 °C</td><td>24.6 -  28 °C</td><td>24.4 -  31.9 °C</td><td>25 -  32 °C</td><td>23 -  23.9 °C</td><td>23.1 -  31.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>

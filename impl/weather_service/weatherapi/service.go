@@ -2,6 +2,7 @@ package weatherapi
 
 import (
 	"context"
+	"strings"
 	"time"
 	"weather_forecast/model"
 	"weather_forecast/pkg/utils"
@@ -51,7 +52,7 @@ func forecastDayToWeather(forecastDay weatherapi_com.ForecastDay, country, city,
 	endTime := startTime.Add(time.Hour)
 	return model.Weather{
 		Condition:             forecastDay.Day.Condition.Text,
-		Icon:                  forecastDay.Day.Condition.Icon,
+		Icon:                  fillImageSchema(forecastDay.Day.Condition.Icon),
 		StartTime:             &startTime,
 		EndTime:               &endTime,
 		Country:               country,
@@ -74,7 +75,7 @@ func forecastHourToWeather(hour weatherapi_com.ForecastHour, country, city, time
 	endTime := startTime.Add(time.Hour)
 	return model.Weather{
 		Condition:             hour.Condition.Text,
-		Icon:                  hour.Condition.Icon,
+		Icon:                  fillImageSchema(hour.Condition.Icon),
 		StartTime:             &startTime,
 		EndTime:               &endTime,
 		Country:               country,
@@ -90,4 +91,11 @@ func forecastHourToWeather(hour weatherapi_com.ForecastHour, country, city, time
 		MinWindKph: hour.WindKph,
 		MaxWindKph: hour.WindKph,
 	}
+}
+
+func fillImageSchema(imageUrl string) string {
+	if strings.HasPrefix(imageUrl, "//") {
+		imageUrl = "https:" + imageUrl
+	}
+	return imageUrl
 }
