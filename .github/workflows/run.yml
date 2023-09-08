@@ -1,0 +1,28 @@
+name: "Cronjob"
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+
+jobs:
+  release-on-push:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '^1.21.0'
+      - name: Install dependencies
+        run: go get .
+      - name: Collect
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: go run main.go update-weather -k="$WEATHER_API_KEY"
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update"
+          git push origin main
