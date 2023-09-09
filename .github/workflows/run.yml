@@ -18,7 +18,7 @@ jobs:
       - name: Collect
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
-        run: go run main.go update-weather -k="$WEATHER_API_KEY" -f "data/REAME.md.template"
+        run: go run main.go update-weather -k="$WEATHER_API_KEY" -f "data/README.md.template"
       - name: Commit
         run: |
           git config user.name github-actions
