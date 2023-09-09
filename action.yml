@@ -17,10 +17,14 @@ inputs:
   out-file:
     description: 'Output file path'
     required: true
+  test:
+    description: "test"
+    required: true
 runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
+    - ${{ inputs.test }}
     - --weather-api-key=${{ inputs.weather-api-key }}
     - --days=${{ inputs.days }}
     - --city=${{ inputs.city }}
