@@ -8,6 +8,7 @@ import (
 	"html/template"
 	"log/slog"
 	"os"
+	"time"
 	"weather_forecast/model"
 	"weather_forecast/pkg/errs"
 )
@@ -42,10 +43,9 @@ func generateReadme(weathers []model.Weather, readmeTemplate string, templates .
 	tmpl, err := template.
 		New("readme").
 		Funcs(template.FuncMap{
-			"formatDate":              formatDate,
-			"formatHour":              formatHour,
-			"dailyWeatherTable":       dailyWeatherTable,
-			"todayHourlyWeatherTable": todayHourlyWeatherTable,
+			"formatDate": formatDate,
+			"formatHour": formatHour,
+			"formatTime": formatTime,
 		}).
 		Parse(readmeTemplate)
 	if err != nil {
@@ -61,7 +61,8 @@ func generateReadme(weathers []model.Weather, readmeTemplate string, templates .
 
 	var result bytes.Buffer
 	err = tmpl.ExecuteTemplate(&result, "readme", map[string]any{
-		"Weathers": weathers,
+		"Weathers":  weathers,
+		"UpdatedAt": time.Now(),
 	})
 	if err != nil {
 		return nil, err

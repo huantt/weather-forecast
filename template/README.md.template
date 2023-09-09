@@ -17,3 +17,5 @@
 ## Weather For Next {{ len .Weathers }} days
 
 {{template "daily-table" .Weathers}}
+
+*Updated at: {{formatTime .UpdatedAt}}*
