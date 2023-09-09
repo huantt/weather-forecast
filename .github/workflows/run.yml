@@ -4,7 +4,7 @@ on:
     - cron: '15 */6 * * *'
 
 jobs:
-  release-on-push:
+  update-weather:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
