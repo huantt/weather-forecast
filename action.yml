@@ -17,9 +17,6 @@ inputs:
   out-file:
     description: 'Output file path'
     required: true
-  test:
-    description: "test"
-    required: true
 runs:
   using: 'docker'
   image: 'Dockerfile'
