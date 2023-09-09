@@ -22,7 +22,7 @@ func UpdateWeather(use string) *cobra.Command {
 		Run: func(cmd *cobra.Command, args []string) {
 			weatherApiService := weatherapi.NewWeatherService(weatherapi_com.NewService(weatherApiComKey))
 			handler := collector.NewCollector(weatherApiService)
-			err := handler.Collect(context.Background(), "HaNoi", days, weatherTemplateFilePath, outputFilePath)
+			err := handler.Collect(context.Background(), city, days, weatherTemplateFilePath, outputFilePath)
 			if err != nil {
 				slog.Error(err.Error())
 				os.Exit(1)
