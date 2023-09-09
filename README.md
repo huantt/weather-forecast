@@ -4,15 +4,15 @@
 
 `Hanoi, Vietnam - 09/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img>
 
-Heavy rain
+Moderate rain
 </div>
 
 <table>
     <tr>
         <th>Hour</th>
-        <td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td><td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td>
+        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
     </tr>
     <tr>
         <th>Weather</th>

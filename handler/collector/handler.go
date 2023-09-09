@@ -4,9 +4,10 @@ import (
 	"bytes"
 	"context"
 	_ "embed"
+	"fmt"
 	"html/template"
+	"log/slog"
 	"os"
-	"time"
 	"weather_forecast/model"
 	"weather_forecast/pkg/errs"
 )
@@ -19,12 +20,17 @@ func NewCollector(weatherService WeatherService) *Collector {
 	return &Collector{weatherService}
 }
 
-func (c *Collector) Collect(ctx context.Context, city string, days int) error {
+func (c *Collector) Collect(ctx context.Context, city string, days int, readmeTemplateFile string) error {
+	slog.Info(fmt.Sprintf("Collecting weather for %s for %d days - Template file: %s", city, days, readmeTemplateFile))
 	weathers, err := c.weatherService.Forecast(ctx, city, days)
 	if err != nil {
 		return errs.Joinf(err, "[weatherService.Forecast]")
 	}
-	readme, err := generateReadme(weathers)
+	readmeTemplate, err := os.ReadFile(readmeTemplateFile)
+	if err != nil {
+		return errs.Joinf(err, "[os.ReadFile] "+readmeTemplateFile)
+	}
+	readme, err := generateReadme(weathers, string(readmeTemplate))
 	if err != nil {
 		return errs.Joinf(err, "[generateReadme]")
 	}
@@ -32,23 +38,12 @@ func (c *Collector) Collect(ctx context.Context, city string, days int) error {
 	return os.WriteFile("README.md", []byte(*readme), 0644)
 }
 
-//go:embed data/README.md.template
-var readmeTemplate string
-
-func generateReadme(weathers []model.Weather) (*string, error) {
+func generateReadme(weathers []model.Weather, readmeTemplate string) (*string, error) {
 	tmpl, err := template.
 		New("test").
 		Funcs(template.FuncMap{
-			"formatDate": func(date time.Time, timezone string) string {
-				loc, _ := time.LoadLocation(timezone)
-				date = date.In(loc)
-				return date.Format("02/01/2006")
-			},
-			"formatHour": func(date time.Time, timezone string) string {
-				loc, _ := time.LoadLocation(timezone)
-				date = date.In(loc)
-				return date.Format("15:04")
-			},
+			"formatDate": formatDate,
+			"formatHour": formatHour,
 		}).
 		Parse(readmeTemplate)
 	if err != nil {

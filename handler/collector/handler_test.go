@@ -18,7 +18,7 @@ func TestGenerateReadme(t *testing.T) {
 		panic(err)
 	}
 
-	readme, err := generateReadme(weathers)
+	readme, err := generateReadme(weathers, "data/README.md.template")
 	assert.NoError(t, err)
 	assert.NotNil(t, readme)
 	assert.NotEmpty(t, *readme)

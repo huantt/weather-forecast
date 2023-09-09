@@ -1,5 +1,5 @@
 ## Today's Weather
-{{ with $todayWeather := index .Weathers 1 }}
+{{ with $todayWeather := index .Weathers 0 }}
 <div align="center">
 
 `{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
