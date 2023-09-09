@@ -9,22 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Setup Go
-        uses: actions/setup-go@v4
+      - name: Generate README
+        uses: huantt/weather-forecast@v1.0.4
         with:
-          go-version: '^1.21.0'
-      - name: Install dependencies
-        run: go get .
-      - name: Collect
-        env:
-          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
-        run: |
-          go run main.go update-weather \
-          --days=7 \
-          --weather-api-key="$WEATHER_API_KEY" \
-          --template-file='template/README.md.template' \
-          --city=HaNoi \
-          --out-file='README.md'
+          city: HaNoi
+          days: 2
+          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+          template-file: 'README.md.template'
+          out-file: 'README.md'
       - name: Commit
         run: |
           git config user.name github-actions
