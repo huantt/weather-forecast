@@ -2,7 +2,7 @@
 {{ with $todayWeather := index .Weathers 1 }}
 <div align="center">
 
-`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate (index $todayWeather.HourlyWeathers 0).StartTime }}`
+`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
 
 <img src="{{ $todayWeather.Icon}}"></img>
 
@@ -14,7 +14,7 @@
     <tr>
         <th>Hour</th>
         {{ range $i, $weather := (index .Weathers 1).HourlyWeathers -}}
-            <td>{{ formatHour $weather.StartTime}}</td>
+            <td>{{ formatHour $weather.StartTime $weather.Timezone}}</td>
         {{- end }}
     </tr>
     <tr>
@@ -49,7 +49,7 @@
     <tr>
         <th>Date</th>
         {{ range $i, $weather := .Weathers -}}
-            <td>{{ formatDate $weather.StartTime}}</td>
+            <td>{{ formatDate $weather.StartTime $weather.Timezone}}</td>
         {{- end }}
     </tr>
     <tr>

@@ -39,10 +39,14 @@ func generateReadme(weathers []model.Weather) (*string, error) {
 	tmpl, err := template.
 		New("test").
 		Funcs(template.FuncMap{
-			"formatDate": func(date time.Time) string {
+			"formatDate": func(date time.Time, timezone string) string {
+				loc, _ := time.LoadLocation(timezone)
+				date = date.In(loc)
 				return date.Format("02/01/2006")
 			},
-			"formatHour": func(date time.Time) string {
+			"formatHour": func(date time.Time, timezone string) string {
+				loc, _ := time.LoadLocation(timezone)
+				date = date.In(loc)
 				return date.Format("15:04")
 			},
 		}).
