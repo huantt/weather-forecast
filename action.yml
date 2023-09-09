@@ -21,8 +21,8 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
-    - --weather-api-key={{ inputs.weather-api-key }}
-    - --days=7
-    - --city={{ inputs.city }}
-    - --template-file={{ inputs.template-file }}
-    - --out-file={{ inputs.out-file }}
+    - --weather-api-key=${{ inputs.weather-api-key }}
+    - --days=${{ inputs.days }}
+    - --city=${{ inputs.city }}
+    - --template-file=${{ inputs.template-file }}
+    - --out-file=${{ inputs.out-file }}
