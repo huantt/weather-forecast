@@ -17,4 +17,5 @@ RUN mkdir /app
 WORKDIR /app
 COPY --from=builder /app/app .
 COPY ./template ./template
-ENTRYPOINT ["./app", "update-weather"]
+RUN ln -s /app/app /bin/weather-forecast
+ENTRYPOINT ["weather-forecast", "update-weather"]
