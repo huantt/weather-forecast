@@ -21,7 +21,7 @@ func NewCollector(weatherService WeatherService) *Collector {
 	return &Collector{weatherService}
 }
 
-func (c *Collector) Collect(ctx context.Context, city string, days int, readmeTemplateFile string) error {
+func (c *Collector) Collect(ctx context.Context, city string, days int, readmeTemplateFile string, outFilePath string) error {
 	slog.Info(fmt.Sprintf("Collecting weather for %s for %d days - Template file: %s", city, days, readmeTemplateFile))
 	weathers, err := c.weatherService.Forecast(ctx, city, days)
 	if err != nil {
@@ -36,7 +36,7 @@ func (c *Collector) Collect(ctx context.Context, city string, days int, readmeTe
 		return errs.Joinf(err, "[generateReadme]")
 	}
 
-	return os.WriteFile("README.md", []byte(*readme), 0644)
+	return os.WriteFile(outFilePath, []byte(*readme), 0644)
 }
 
 func generateReadme(weathers []model.Weather, readmeTemplate string, templates ...string) (*string, error) {
