@@ -63,3 +63,50 @@ Moderate rain
 
 
 *Updated at: 2023-09-09T07:17:34Z*
+
+## Usage
+
+### Shell
+
+#### Install
+```shell
+go install https://github.com/huantt/weather-forecast
+```
+
+#### Run
+
+```shell
+Usage:
+   weather-forecast update-weather [flags]
+
+Flags:
+      --city string              City
+      --days int                 Days of forecast (default 7)
+  -h, --help                     help for update-weather
+  -o, --out-file string          Output file path
+  -f, --template-file string     Readme template file path
+  -k, --weather-api-key string   weatherapi.com API key
+
+```
+
+**Sample**
+```shell
+weather-forecast update-weather \
+--days=7 \
+--weather-api-key="$WEATHER_API_KEY" \
+--template-file='template/README.md.template' \
+--city=HaNoi \
+--out-file='README.md'
+```
+
+## Docker
+```shell
+docker run --rm \
+-v ./data:/app/data \
+weather-forecast \
+--weather-api-key='XXXX' \
+--city=HaNoi \
+--out-file=data/README.md \
+--template-file=template/README.md.template
+
+```

@@ -2,12 +2,12 @@ package cmd
 
 import (
 	"context"
+	"github.com/huantt/weather-forecast/handler/collector"
+	"github.com/huantt/weather-forecast/impl/weather_service/weatherapi"
+	"github.com/huantt/weather-forecast/pkg/weatherapi_com"
 	"github.com/spf13/cobra"
 	"log/slog"
 	"os"
-	"weather_forecast/handler/collector"
-	"weather_forecast/impl/weather_service/weatherapi"
-	"weather_forecast/pkg/weatherapi_com"
 )
 
 func UpdateWeather(use string) *cobra.Command {
@@ -37,6 +37,11 @@ func UpdateWeather(use string) *cobra.Command {
 	command.Flags().StringVar(&city, "city", "", "City")
 	command.Flags().IntVar(&days, "days", 7, "Days of forecast")
 	err := command.MarkFlagRequired("weather-api-key")
+	if err != nil {
+		slog.Error(err.Error())
+		os.Exit(1)
+	}
+	err = command.MarkFlagRequired("template-file")
 	if err != nil {
 		slog.Error(err.Error())
 		os.Exit(1)

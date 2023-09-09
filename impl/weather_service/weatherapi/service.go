@@ -2,11 +2,11 @@ package weatherapi
 
 import (
 	"context"
+	"github.com/huantt/weather-forecast/model"
+	"github.com/huantt/weather-forecast/pkg/utils"
+	"github.com/huantt/weather-forecast/pkg/weatherapi_com"
 	"strings"
 	"time"
-	"weather_forecast/model"
-	"weather_forecast/pkg/utils"
-	"weather_forecast/pkg/weatherapi_com"
 )
 
 type WeatherService struct {

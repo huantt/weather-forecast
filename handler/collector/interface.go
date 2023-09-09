@@ -2,7 +2,7 @@ package collector
 
 import (
 	"context"
-	"weather_forecast/model"
+	"github.com/huantt/weather-forecast/model"
 )
 
 type WeatherService interface {

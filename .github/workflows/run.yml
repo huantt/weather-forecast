@@ -20,7 +20,7 @@ jobs:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
         run: |
           go run main.go update-weather \
-          --days=7
+          --days=7 \
           --weather-api-key="$WEATHER_API_KEY" \
           --template-file='template/README.md.template' \
           --city=HaNoi \
