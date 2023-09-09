@@ -1,0 +1,34 @@
+{{define "hourly-table"}}
+<table>
+    <tr>
+        <th>Hour</th>
+        {{ range $i, $weather := . -}}
+            <td>{{ formatHour $weather.StartTime $weather.Timezone}}</td>
+        {{- end }}
+    </tr>
+    <tr>
+        <th>Weather</th>
+        {{ range $i, $weather := . -}}
+            <td><img src="{{ $weather.Icon}}"></img></td>
+        {{- end }}
+    </tr>
+    <tr>
+        <th>Condition</th>
+        {{ range $i, $weather := . -}}
+            <td width="200px">{{ $weather.Condition}}</td>
+        {{- end }}
+    </tr>
+    <tr>
+        <th>Temperature</th>
+        {{ range $i, $weather := . -}}
+            <td>{{ $weather.AvgTempC}} °C</td>
+        {{- end }}
+    </tr>
+    <tr>
+        <th>Wind</th>
+        {{ range $i, $weather := . -}}
+            <td>{{ $weather.AvgWindKph}} kph</td>
+        {{- end }}
+    </tr>
+</table>
+{{end}}

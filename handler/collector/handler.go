@@ -30,7 +30,7 @@ func (c *Collector) Collect(ctx context.Context, city string, days int, readmeTe
 	if err != nil {
 		return errs.Joinf(err, "[os.ReadFile] "+readmeTemplateFile)
 	}
-	readme, err := generateReadme(weathers, string(readmeTemplate))
+	readme, err := generateReadme(weathers, string(readmeTemplate), templates...)
 	if err != nil {
 		return errs.Joinf(err, "[generateReadme]")
 	}
@@ -38,19 +38,29 @@ func (c *Collector) Collect(ctx context.Context, city string, days int, readmeTe
 	return os.WriteFile("README.md", []byte(*readme), 0644)
 }
 
-func generateReadme(weathers []model.Weather, readmeTemplate string) (*string, error) {
+func generateReadme(weathers []model.Weather, readmeTemplate string, templates ...string) (*string, error) {
 	tmpl, err := template.
-		New("test").
+		New("readme").
 		Funcs(template.FuncMap{
-			"formatDate": formatDate,
-			"formatHour": formatHour,
+			"formatDate":              formatDate,
+			"formatHour":              formatHour,
+			"dailyWeatherTable":       dailyWeatherTable,
+			"todayHourlyWeatherTable": todayHourlyWeatherTable,
 		}).
 		Parse(readmeTemplate)
 	if err != nil {
-		panic(err)
+		return nil, err
 	}
+
+	for _, t := range templates {
+		tmpl, err = tmpl.Parse(t)
+		if err != nil {
+			return nil, err
+		}
+	}
+
 	var result bytes.Buffer
-	err = tmpl.Execute(&result, map[string]any{
+	err = tmpl.ExecuteTemplate(&result, "readme", map[string]any{
 		"Weathers": weathers,
 	})
 	if err != nil {
