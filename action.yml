@@ -1,0 +1,28 @@
+name: 'Update Weather'
+description: 'Update Daily or Hourly Weather to your README.md'
+inputs:
+  city:
+    description: 'City'
+    required: true
+  days:
+    description: 'Days of forecast'
+    required: false
+    default: '7'
+  weather-api-key:
+    description: 'https://weatherapi.com API key. Get one for free at https://www.weatherapi.com'
+    required: true
+  template-file:
+    description: 'Template file path'
+    required: true
+  out-file:
+    description: 'Output file path'
+    required: true
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - --weather-api-key={{ inputs.weather-api-key }}
+    - --days=7
+    - --city={{ inputs.city }}
+    - --template-file={{ inputs.template-file }}
+    - --out-file={{ inputs.out-file }}
