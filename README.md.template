@@ -136,12 +136,12 @@ weather-forecast update-weather \
 ### Docker
 ```shell
 docker run --rm \
--v ./data:/app/data \
+-v ./:/app/data \
 weather-forecast \
 --weather-api-key='XXXX' \
 --city=HaNoi \
 --out-file=data/README.md \
---template-file=template/README.md.template
+--template-file=data/README.md.template
 ```
 
 </details>
