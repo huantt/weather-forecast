@@ -62,7 +62,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2023-09-10T14:51:39&#43;07:00*
+*Updated at: 2023-09-10T14:53:47&#43;07:00*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
@@ -129,13 +129,13 @@ jobs:
                 git push origin main
 ```
 - Update some variable in this file:
-- city: The city that you want to forecast weather
-- days: number of forecast days
-- template-file: Path to the above template file. Eg. `template/README.md.template`
-- out-file: your README.md file name
-- weather-api-key:
-- Register free API key in [https://weatherapi.com](https://weatherapi.com)
-- Setup secrets with name `WEATHER_API_KEY` in `Your repo > settings > Secrets and variables > Actions > New repository secret`
+    - city: The city that you want to forecast weather
+    - days: number of forecast days
+    - template-file: Path to the above template file. Eg. `template/README.md.template`
+    - out-file: your README.md file name
+    - weather-api-key:
+        - Register free API key in [https://weatherapi.com](https://weatherapi.com)
+        - Setup secrets with name `WEATHER_API_KEY` in `Your repo > settings > Secrets and variables > Actions > New repository secret`
 
 **Step 5**: Commit your change, then Github actions will run as your specificed cron to update Weather into your README.md file
 </details>
