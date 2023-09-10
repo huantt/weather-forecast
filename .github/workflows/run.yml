@@ -13,7 +13,7 @@ jobs:
         uses: huantt/weather-forecast@v1.0.4
         with:
           city: HaNoi
-          days: 2
+          days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: 'README.md.template'
           out-file: 'README.md'
