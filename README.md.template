@@ -57,33 +57,32 @@ If you are familiar with Go templates, you have access to the `root` variable, w
 **Step 4**: Register Github Action
 - Create a file `.github/workflows/update-weather.yml` in your repository.
 ```yml
+name: "Cronjob"
 on:
-push:
-branches:
-- 'main'
+schedule:
+- cron: '15 * * * *'
+
 jobs:
-update-weather:
-permissions: write-all
-runs-on: ubuntu-latest
-steps:
-- uses: actions/checkout@v3
-- name: Generate README
-uses: huantt/weather-forecast@v1.0.4
-with:
-city: HaNoi
-days: 7
-weather-api-key: {{`${{ secrets.WEATHER_API_KEY }}`}}
-template-file: 'README.md.template'
-out-file: 'README.md'
-- name: Commit
-run: |
-git config user.name github-actions
-git config user.email github-actions@github.com
-git add .
-git commit -m "update weather"
-git push origin main
-
-
+    update-weather:
+        permissions: write-all
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Generate README
+              uses: huantt/weather-forecast@v1.0.4
+              with:
+              city: HaNoi
+              days: 7
+              weather-api-key: {{`${{ secrets.WEATHER_API_KEY }}`}}
+              template-file: 'README.md.template'
+              out-file: 'README.md'
+            - name: Commit
+              run: |
+                git config user.name github-actions
+                git config user.email github-actions@github.com
+                git add .
+                git commit -m "update weather"
+                git push origin main
 ```
 - Update some variable in this file:
 - city: The city that you want to forecast weather

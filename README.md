@@ -26,43 +26,43 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.1 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>25.8 °C</td><td>27.4 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.5 °C</td><td>33.3 °C</td><td>33.9 °C</td><td>29 °C</td><td>33.8 °C</td><td>31.8 °C</td><td>30.3 °C</td><td>29.2 °C</td><td>28.2 °C</td><td>27.5 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.4 °C</td>
+        <td>26.1 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>25.8 °C</td><td>27.4 °C</td><td>29.4 °C</td><td>31.2 °C</td><td>32.5 °C</td><td>33.3 °C</td><td>33.9 °C</td><td>31 °C</td><td>33.8 °C</td><td>31.8 °C</td><td>30.3 °C</td><td>29.2 °C</td><td>28.2 °C</td><td>27.5 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>9 kph</td><td>11.2 kph</td><td>5.8 kph</td><td>4 kph</td><td>4 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>8.3 kph</td>
+        <td>6.1 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>9 kph</td><td>9 kph</td><td>5.8 kph</td><td>4 kph</td><td>4 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>8.3 kph</td>
     </tr>
 </table>
 
 
-## Weather For Next 2 days
+## Weather For Next 7 days
 
 
 <table>
     <tr>
         <th>Date</th>
-        <td>10/09/2023</td><td>11/09/2023</td>
+        <td>10/09/2023</td><td>11/09/2023</td><td>12/09/2023</td><td>13/09/2023</td><td>14/09/2023</td><td>15/09/2023</td><td>16/09/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Heavy rain</td>
+        <td width="200px">Moderate rain</td><td width="200px">Heavy rain</td><td width="200px">Heavy rain</td><td width="200px">Heavy rain</td><td width="200px">Heavy rain</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 -  34.3 °C</td><td>25.6 -  32.5 °C</td>
+        <td>25.4 -  34.3 °C</td><td>25.6 -  32.5 °C</td><td>25.7 -  32.6 °C</td><td>21.4 -  25.7 °C</td><td>21.7 -  23.1 °C</td><td>22.5 -  29.5 °C</td><td>23.3 -  30.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>10.4 kph</td>
+        <td>10.8 kph</td><td>10.4 kph</td><td>7.6 kph</td><td>19.8 kph</td><td>16.9 kph</td><td>14.8 kph</td><td>15.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-09-10T07:18:23Z*
+*Updated at: 2023-09-10T14:51:39&#43;07:00*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
@@ -101,33 +101,32 @@ If you are familiar with Go templates, you have access to the `root` variable, w
 **Step 4**: Register Github Action
 - Create a file `.github/workflows/update-weather.yml` in your repository.
 ```yml
+name: "Cronjob"
 on:
-push:
-branches:
-- 'main'
+schedule:
+- cron: '15 * * * *'
+
 jobs:
-update-weather:
-permissions: write-all
-runs-on: ubuntu-latest
-steps:
-- uses: actions/checkout@v3
-- name: Generate README
-uses: huantt/weather-forecast@v1.0.4
-with:
-city: HaNoi
-days: 7
-weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-template-file: 'README.md.template'
-out-file: 'README.md'
-- name: Commit
-run: |
-git config user.name github-actions
-git config user.email github-actions@github.com
-git add .
-git commit -m "update weather"
-git push origin main
-
-
+    update-weather:
+        permissions: write-all
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Generate README
+              uses: huantt/weather-forecast@v1.0.4
+              with:
+              city: HaNoi
+              days: 7
+              weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+              template-file: 'README.md.template'
+              out-file: 'README.md'
+            - name: Commit
+              run: |
+                git config user.name github-actions
+                git config user.email github-actions@github.com
+                git add .
+                git commit -m "update weather"
+                git push origin main
 ```
 - Update some variable in this file:
 - city: The city that you want to forecast weather
