@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"context"
 	_ "embed"
+	"errors"
 	"fmt"
 	"github.com/huantt/weather-forecast/model"
 	"github.com/huantt/weather-forecast/pkg/errs"
@@ -40,6 +41,9 @@ func (c *Collector) Collect(ctx context.Context, city string, days int, readmeTe
 }
 
 func generateReadme(weathers []model.Weather, readmeTemplate string, templates ...string) (*string, error) {
+	if len(weathers) == 0 {
+		return nil, errors.New("weathers must be not empty")
+	}
 	tmpl, err := template.
 		New("readme").
 		Funcs(template.FuncMap{
@@ -61,8 +65,9 @@ func generateReadme(weathers []model.Weather, readmeTemplate string, templates .
 
 	var result bytes.Buffer
 	err = tmpl.ExecuteTemplate(&result, "readme", map[string]any{
-		"Weathers":  weathers,
-		"UpdatedAt": time.Now(),
+		"Weathers":     weathers,
+		"UpdatedAt":    time.Now(),
+		"TodayWeather": weathers[0],
 	})
 	if err != nil {
 		return nil, err
