@@ -17,19 +17,19 @@ Overcast
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td><td width="200px">Overcast</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td>
+        <td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Moderate rain</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.6 °C</td><td>22.7 °C</td><td>23.1 °C</td><td>23.6 °C</td><td>23.9 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>23.9 °C</td><td>25 °C</td><td>23.8 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.8 °C</td><td>23.9 °C</td>
+        <td>23 °C</td><td>22.9 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.6 °C</td><td>22.7 °C</td><td>23.1 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.4 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23 °C</td><td>24 °C</td><td>23.1 °C</td><td>23.2 °C</td><td>23.1 °C</td><td>23.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>13.3 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>13 kph</td><td>13 kph</td><td>14 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>14 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>11.2 kph</td><td>11.2 kph</td><td>11.2 kph</td>
+        <td>13.7 kph</td><td>13.3 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>13 kph</td><td>13 kph</td><td>14 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>13.3 kph</td><td>13 kph</td><td>12.2 kph</td><td>11.2 kph</td><td>9.4 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>10.1 kph</td><td>11.2 kph</td><td>4 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2023-09-14T11:18:45Z*
+*Updated at: 2023-09-14T19:35:26&#43;07:00*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
@@ -114,18 +114,23 @@ jobs:
             - name: Generate README
               uses: huantt/weather-forecast@v1.0.5
               with:
-              city: HaNoi
-              days: 7
-              weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-              template-file: 'README.md.template'
-              out-file: 'README.md'
+                city: HaNoi
+                days: 7
+                weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+                template-file: 'README.md.template'
+                out-file: 'README.md'
             - name: Commit
               run: |
-                git config user.name github-actions
-                git config user.email github-actions@github.com
-                git add .
-                git commit -m "update weather"
-                git push origin main
+                if git diff --exit-code; then
+                  echo "No changes to commit."
+                  exit 0
+                else
+                  git config user.name github-actions
+                  git config user.email github-actions@github.com
+                  git add .
+                  git commit -m "update"
+                  git push origin main
+                fi
 ```
 - Update some variable in this file:
     - city: The city that you want to forecast weather

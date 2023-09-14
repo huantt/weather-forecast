@@ -20,7 +20,7 @@ func TestGenerateReadme(t *testing.T) {
 	}
 
 	// Construct the path to data/test.txt relative to the test file
-	readme, err := generateReadme(weathers, "../../template/README.md.template")
+	readme, err := generateOutput(weathers, "../../template/README.md.template")
 	assert.NoError(t, err)
 	assert.NotNil(t, readme)
 	assert.NotEmpty(t, *readme)
