@@ -136,6 +136,10 @@ weather-forecast update-weather \
 
 ### Docker
 ```shell
+docker build -t weather-forecast .
+```
+
+```shell
 docker run --rm \
 -v ./:/app/data \
 weather-forecast \
