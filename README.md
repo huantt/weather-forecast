@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.6 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>25.7 °C</td><td>27.2 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.8 °C</td><td>32.7 °C</td><td>32 °C</td><td>33.5 °C</td><td>33.4 °C</td><td>33.1 °C</td><td>31.7 °C</td><td>29.7 °C</td><td>28.2 °C</td><td>27.3 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.1 °C</td>
+        <td>25.6 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>25.7 °C</td><td>27.2 °C</td><td>28.9 °C</td><td>30.5 °C</td><td>31.8 °C</td><td>32.7 °C</td><td>33.3 °C</td><td>33 °C</td><td>33.4 °C</td><td>33.1 °C</td><td>31.7 °C</td><td>29.7 °C</td><td>28.2 °C</td><td>27.3 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.7 kph</td><td>5 kph</td><td>8.6 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>9.4 kph</td>
+        <td>8.6 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.7 kph</td><td>5 kph</td><td>8.6 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Sunny
 </table>
 
 
-*Updated at: 2023-10-03T06:28:21Z*
+*Updated at: 2023-10-03T07:20:03Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
