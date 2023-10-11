@@ -3,9 +3,9 @@
 
 `Hanoi, Vietnam - 12/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Patchy rain possible
+Moderate rain
 
 </div>
 
@@ -29,7 +29,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>11.2 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td>
+        <td>6.1 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>9 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
@@ -44,24 +44,24 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Overcast</td>
+        <td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.9 -  22.8 °C</td><td>22.1 -  25.2 °C</td><td>22.5 -  24.9 °C</td>
+        <td>21.2 -  23.5 °C</td><td>21.8 -  29.4 °C</td><td>22.7 -  25.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>9.4 kph</td><td>15.8 kph</td>
+        <td>10.8 kph</td><td>10.1 kph</td><td>19.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-11T17:24:59Z*
+*Updated at: 2023-10-11T18:28:32Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
