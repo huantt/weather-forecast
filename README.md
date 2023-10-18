@@ -29,7 +29,7 @@ Partly cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>6.8 kph</td><td>2.5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>9 kph</td><td>9.4 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>13.7 kph</td><td>16.2 kph</td><td>18.4 kph</td><td>19.8 kph</td><td>20.2 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>14.4 kph</td>
+        <td>2.5 kph</td><td>6.1 kph</td><td>2.5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>9 kph</td><td>9.4 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>13.7 kph</td><td>16.2 kph</td><td>18.4 kph</td><td>19.8 kph</td><td>20.2 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Partly cloudy
 </table>
 
 
-*Updated at: 2023-10-18T17:23:45Z*
+*Updated at: 2023-10-18T18:28:27Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
