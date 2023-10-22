@@ -17,19 +17,19 @@ Partly cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Cloudy</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Cloudy</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.7 °C</td><td>23.6 °C</td><td>23.5 °C</td><td>23.2 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>22.5 °C</td><td>22.9 °C</td><td>23.6 °C</td><td>24.8 °C</td><td>26 °C</td><td>27.2 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>26.7 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.1 °C</td><td>24.2 °C</td><td>23.6 °C</td><td>23.5 °C</td><td>23.6 °C</td><td>23.6 °C</td>
+        <td>23.7 °C</td><td>23.6 °C</td><td>23.5 °C</td><td>23.2 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>22.5 °C</td><td>22.9 °C</td><td>23.6 °C</td><td>24.8 °C</td><td>26.4 °C</td><td>27 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>26.7 °C</td><td>26.1 °C</td><td>25.7 °C</td><td>25.1 °C</td><td>24.2 °C</td><td>23.6 °C</td><td>23.5 °C</td><td>23.6 °C</td><td>23.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>2.5 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>15.1 kph</td><td>11.2 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>14 kph</td><td>10.8 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.8 kph</td>
+        <td>2.5 kph</td><td>2.5 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>12.2 kph</td><td>15.1 kph</td><td>17.6 kph</td><td>13 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>14 kph</td><td>10.8 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
@@ -52,16 +52,16 @@ Partly cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.5 -  28.1 °C</td><td>23 -  27.8 °C</td><td>23.2 -  26.6 °C</td>
+        <td>22.5 -  27.8 °C</td><td>22.7 -  26.6 °C</td><td>22.9 -  30 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.8 kph</td><td>8.3 kph</td><td>10.4 kph</td>
+        <td>17.6 kph</td><td>7.2 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-22T04:25:19Z*
+*Updated at: 2023-10-22T05:24:15Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
