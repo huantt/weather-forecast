@@ -77,14 +77,13 @@ type ForecastDay struct {
 		Uv float64 `json:"uv"`
 	} `json:"day"`
 	Astro struct {
-		Sunrise          string `json:"sunrise"`
-		Sunset           string `json:"sunset"`
-		Moonrise         string `json:"moonrise"`
-		Moonset          string `json:"moonset"`
-		MoonPhase        string `json:"moon_phase"`
-		MoonIllumination string `json:"moon_illumination"`
-		IsMoonUp         int    `json:"is_moon_up"`
-		IsSunUp          int    `json:"is_sun_up"`
+		Sunrise   string `json:"sunrise"`
+		Sunset    string `json:"sunset"`
+		Moonrise  string `json:"moonrise"`
+		Moonset   string `json:"moonset"`
+		MoonPhase string `json:"moon_phase"`
+		IsMoonUp  int    `json:"is_moon_up"`
+		IsSunUp   int    `json:"is_sun_up"`
 	} `json:"astro"`
 	Hour []ForecastHour `json:"hour"`
 }
