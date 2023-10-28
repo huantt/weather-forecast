@@ -3,9 +3,9 @@
 
 `Hanoi, Vietnam - 29/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain possible
 
 </div>
 
@@ -44,24 +44,24 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.7 -  24.2 °C</td><td>21.8 -  22.6 °C</td><td>22.1 -  27 °C</td>
+        <td>22.8 -  25 °C</td><td>22.4 -  24.8 °C</td><td>22.5 -  29.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.5 kph</td><td>9 kph</td><td>9 kph</td>
+        <td>11.9 kph</td><td>11.5 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-28T17:22:07Z*
+*Updated at: 2023-10-28T18:25:04Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
