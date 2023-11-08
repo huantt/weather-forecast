@@ -52,16 +52,16 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.8 -  32 °C</td><td>24.3 -  30.8 °C</td><td>24.5 -  31.2 °C</td>
+        <td>23.6 -  30.9 °C</td><td>24.2 -  31 °C</td><td>24.5 -  31.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>17.6 kph</td><td>14.8 kph</td><td>17.3 kph</td>
+        <td>14.8 kph</td><td>16.6 kph</td><td>16.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-11-08T17:24:55Z*
+*Updated at: 2023-11-08T18:27:34Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
