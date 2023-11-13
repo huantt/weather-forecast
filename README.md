@@ -29,7 +29,7 @@ Overcast
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>15.1 kph</td><td>9.7 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td>
+        <td>10.8 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -52,16 +52,16 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.1 -  20.5 °C</td><td>19.5 -  22.8 °C</td><td>17.6 -  19.7 °C</td>
+        <td>16.1 -  21.9 °C</td><td>19.1 -  23.8 °C</td><td>17.9 -  19.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.5 kph</td><td>9.4 kph</td><td>30.6 kph</td>
+        <td>10.8 kph</td><td>10.1 kph</td><td>30.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-11-13T17:24:01Z*
+*Updated at: 2023-11-13T18:27:14Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
