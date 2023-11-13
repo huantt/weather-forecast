@@ -61,7 +61,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2023-11-13T05:25:24Z*
+*Updated at: 2023-11-13T06:28:21Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
