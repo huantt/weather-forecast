@@ -29,7 +29,7 @@ Partly cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>9 kph</td><td>9.7 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>9 kph</td>
+        <td>8.6 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>9 kph</td><td>9.7 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>9 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Partly cloudy
 </table>
 
 
-*Updated at: 2023-11-21T17:29:07Z*
+*Updated at: 2023-11-21T18:29:08Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
