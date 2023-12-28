@@ -44,24 +44,24 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Overcast</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.5 -  23.9 °C</td><td>20.6 -  26.5 °C</td><td>19.1 -  25.7 °C</td>
+        <td>19.1 -  24.5 °C</td><td>20.5 -  26.1 °C</td><td>19.1 -  26.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.4 kph</td><td>14.4 kph</td><td>13.7 kph</td>
+        <td>9.4 kph</td><td>14 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-12-28T17:24:04Z*
+*Updated at: 2023-12-28T18:26:43Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
