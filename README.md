@@ -61,7 +61,7 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2024-01-01T17:24:09Z*
+*Updated at: 2024-01-01T18:27:10Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
