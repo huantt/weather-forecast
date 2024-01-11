@@ -29,7 +29,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5.4 kph</td>
+        <td>8.3 kph</td><td>3.6 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>5.4 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2024-01-11T17:25:36Z*
+*Updated at: 2024-01-11T18:26:38Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
