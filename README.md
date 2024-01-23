@@ -25,11 +25,11 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.1 °C</td><td>9.2 °C</td><td>9.4 °C</td><td>9.2 °C</td><td>8.8 °C</td><td>8.7 °C</td><td>8.8 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.8 °C</td><td>9 °C</td><td>9.2 °C</td><td>9.3 °C</td><td>11 °C</td><td>9.8 °C</td><td>10 °C</td><td>10.1 °C</td><td>9.9 °C</td><td>9.6 °C</td><td>9.5 °C</td><td>9.4 °C</td><td>9.3 °C</td><td>9.2 °C</td><td>9.2 °C</td>
+        <td>9.1 °C</td><td>9.2 °C</td><td>9.4 °C</td><td>9.2 °C</td><td>8.8 °C</td><td>8.7 °C</td><td>8.8 °C</td><td>8.7 °C</td><td>8.7 °C</td><td>8.8 °C</td><td>9 °C</td><td>9.2 °C</td><td>9.3 °C</td><td>9.4 °C</td><td>12 °C</td><td>10 °C</td><td>10.1 °C</td><td>9.9 °C</td><td>9.6 °C</td><td>9.5 °C</td><td>9.4 °C</td><td>9.3 °C</td><td>9.2 °C</td><td>9.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.7 kph</td><td>19.1 kph</td><td>19.8 kph</td><td>19.1 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>18.7 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>19.4 kph</td><td>20.5 kph</td><td>20.5 kph</td><td>20.2 kph</td><td>13 kph</td><td>18 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>14.8 kph</td><td>15.1 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.9 kph</td>
+        <td>18.7 kph</td><td>19.1 kph</td><td>19.8 kph</td><td>19.1 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>18.7 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>19.4 kph</td><td>20.5 kph</td><td>20.5 kph</td><td>20.2 kph</td><td>18.7 kph</td><td>13 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>14.8 kph</td><td>15.1 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2024-01-23T06:29:18Z*
+*Updated at: 2024-01-23T07:21:44Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
