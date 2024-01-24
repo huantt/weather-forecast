@@ -52,16 +52,16 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.4 -  12.5 °C</td><td>11.2 -  13.1 °C</td><td>11.7 -  12.9 °C</td>
+        <td>9.1 -  11.8 °C</td><td>10.7 -  12.5 °C</td><td>11.4 -  12.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>9.4 kph</td><td>10.1 kph</td>
+        <td>10.8 kph</td><td>8.3 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-01-24T17:26:03Z*
+*Updated at: 2024-01-24T18:27:10Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
