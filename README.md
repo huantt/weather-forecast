@@ -21,7 +21,7 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -29,7 +29,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>13 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>9 kph</td><td>9.4 kph</td><td>9 kph</td><td>6.1 kph</td><td>9.4 kph</td><td>15.8 kph</td><td>30.2 kph</td><td>22.7 kph</td><td>24.1 kph</td><td>19.4 kph</td><td>20.9 kph</td><td>11.2 kph</td><td>29.2 kph</td><td>27.4 kph</td>
+        <td>14 kph</td><td>13 kph</td><td>11.5 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>9.7 kph</td><td>10.4 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>9 kph</td><td>9.4 kph</td><td>9 kph</td><td>6.1 kph</td><td>9.4 kph</td><td>15.8 kph</td><td>30.2 kph</td><td>22.7 kph</td><td>24.1 kph</td><td>19.4 kph</td><td>20.9 kph</td><td>26.3 kph</td><td>13 kph</td><td>27.4 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Sunny
 </table>
 
 
-*Updated at: 2024-04-29T14:26:20Z*
+*Updated at: 2024-04-29T15:24:09Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
