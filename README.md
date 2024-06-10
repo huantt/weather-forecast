@@ -3,9 +3,9 @@
 
 `Hanoi, Vietnam - 11/06/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain nearby
 
 </div>
 
@@ -29,7 +29,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>3.2 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>10.1 kph</td><td>14 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.7 kph</td>
+        <td>2.5 kph</td><td>13 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>3.2 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>10.1 kph</td><td>14 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
@@ -44,24 +44,24 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 -  31.9 °C</td><td>26.6 -  35.7 °C</td><td>27.5 -  36.6 °C</td>
+        <td>26.2 -  34.5 °C</td><td>26.8 -  36.5 °C</td><td>27.9 -  37 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>15.1 kph</td><td>14.4 kph</td>
+        <td>16.2 kph</td><td>16.6 kph</td><td>19.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-10T17:26:00Z*
+*Updated at: 2024-06-10T18:30:48Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
