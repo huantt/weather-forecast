@@ -44,24 +44,24 @@ Heavy rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Heavy rain</td><td width="200px">Heavy rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Heavy rain</td><td width="200px">Heavy rain</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.8 -  32.3 °C</td><td>25.8 -  31.2 °C</td><td>25.7 -  30.9 °C</td>
+        <td>25.6 -  29.6 °C</td><td>25.3 -  31.2 °C</td><td>25.7 -  31.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.9 kph</td><td>16.6 kph</td><td>16.6 kph</td>
+        <td>9.7 kph</td><td>15.8 kph</td><td>16.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-25T05:27:05Z*
+*Updated at: 2024-06-25T06:31:33Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
