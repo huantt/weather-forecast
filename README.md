@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.4 °C</td><td>29.3 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>27 °C</td><td>28.5 °C</td><td>30.2 °C</td><td>31.6 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>33.7 °C</td><td>34.3 °C</td><td>34.3 °C</td><td>32.9 °C</td><td>33.4 °C</td><td>32.9 °C</td><td>31.2 °C</td><td>29.8 °C</td><td>29 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>28 °C</td>
+        <td>27.4 °C</td><td>29.1 °C</td><td>27.1 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>27 °C</td><td>28.5 °C</td><td>30.2 °C</td><td>31.6 °C</td><td>32.6 °C</td><td>33.4 °C</td><td>33.7 °C</td><td>34.3 °C</td><td>34.3 °C</td><td>32.9 °C</td><td>33.4 °C</td><td>32.9 °C</td><td>31.2 °C</td><td>29.8 °C</td><td>29 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>28 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,24 +44,24 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.7 -  34.3 °C</td><td>26.9 -  34.5 °C</td><td>26.8 -  36.3 °C</td>
+        <td>26.6 -  33.2 °C</td><td>26.6 -  33.7 °C</td><td>26.1 -  35.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>21.6 kph</td><td>22 kph</td><td>21.2 kph</td>
+        <td>22 kph</td><td>20.9 kph</td><td>21.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-06T17:23:29Z*
+*Updated at: 2024-07-06T18:28:38Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
