@@ -21,7 +21,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Patchy light rain</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Patchy light rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -29,7 +29,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>11.5 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>15.5 kph</td><td>15.5 kph</td><td>17.3 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>17.6 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>14 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>5.8 kph</td>
+        <td>13.3 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>11.5 kph</td><td>14.8 kph</td><td>15.8 kph</td><td>15.5 kph</td><td>15.5 kph</td><td>17.3 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>17.3 kph</td><td>14 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
@@ -52,16 +52,16 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.4 -  33.7 °C</td><td>26.7 -  32.7 °C</td><td>25.9 -  32.1 °C</td>
+        <td>27.4 -  33.7 °C</td><td>26.6 -  33.6 °C</td><td>26 -  31.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>17.6 kph</td><td>10.8 kph</td><td>14.4 kph</td>
+        <td>18.7 kph</td><td>9.7 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-14T10:30:32Z*
+*Updated at: 2024-07-14T11:22:52Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
