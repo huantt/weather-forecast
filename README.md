@@ -52,16 +52,16 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.2 -  25.8 °C</td><td>24.3 -  30.1 °C</td><td>25.3 -  33.5 °C</td>
+        <td>24.4 -  25.6 °C</td><td>24.8 -  28.3 °C</td><td>24.8 -  33.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>17.3 kph</td><td>10.4 kph</td><td>10.4 kph</td>
+        <td>22.7 kph</td><td>22.7 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-22T17:26:41Z*
+*Updated at: 2024-07-22T18:31:06Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
