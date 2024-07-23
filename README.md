@@ -61,7 +61,7 @@ Heavy rain
 </table>
 
 
-*Updated at: 2024-07-23T13:26:31Z*
+*Updated at: 2024-07-23T14:27:04Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
