@@ -52,16 +52,16 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.5 -  33.8 °C</td><td>27 -  37.1 °C</td><td>28.4 -  37.7 °C</td>
+        <td>25.5 -  34.1 °C</td><td>27 -  37.6 °C</td><td>28.7 -  36.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.4 kph</td><td>15.1 kph</td><td>19.8 kph</td>
+        <td>10.4 kph</td><td>15.5 kph</td><td>15.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-25T15:25:28Z*
+*Updated at: 2024-07-25T16:31:56Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
