@@ -3,9 +3,9 @@
 
 `Hanoi, Vietnam - 30/07/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
 
-Moderate rain
+Heavy rain
 
 </div>
 
@@ -44,24 +44,24 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
+        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 -  27.8 °C</td><td>24.9 -  27.4 °C</td><td>24.9 -  33.3 °C</td>
+        <td>25 -  28 °C</td><td>25 -  26.9 °C</td><td>24.7 -  28.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>10.4 kph</td><td>14.8 kph</td>
+        <td>10.8 kph</td><td>9 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-30T03:29:51Z*
+*Updated at: 2024-07-30T04:28:24Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
