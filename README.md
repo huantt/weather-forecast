@@ -52,16 +52,16 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 -  29.3 °C</td><td>25.1 -  29.9 °C</td><td>24.7 -  33.1 °C</td>
+        <td>25.2 -  28.6 °C</td><td>24.8 -  28.3 °C</td><td>24.6 -  32.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>12.6 kph</td><td>13.7 kph</td>
+        <td>11.5 kph</td><td>13.3 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-08-02T09:26:06Z*
+*Updated at: 2024-08-02T10:29:26Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
