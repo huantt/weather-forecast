@@ -25,11 +25,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.5 °C</td><td>27.4 °C</td><td>27.6 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.7 °C</td><td>27.8 °C</td><td>29.3 °C</td><td>30.4 °C</td><td>30.9 °C</td><td>30.8 °C</td><td>31.7 °C</td><td>33 °C</td><td>33 °C</td><td>33.5 °C</td><td>33.7 °C</td><td>33.4 °C</td><td>31.6 °C</td><td>30.2 °C</td><td>29.1 °C</td><td>28.3 °C</td><td>27.9 °C</td><td>27.8 °C</td>
+        <td>28.5 °C</td><td>27 °C</td><td>27.6 °C</td><td>26.9 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.7 °C</td><td>27.8 °C</td><td>29.3 °C</td><td>30.4 °C</td><td>30.9 °C</td><td>30.8 °C</td><td>31.7 °C</td><td>33 °C</td><td>33 °C</td><td>33.5 °C</td><td>33.7 °C</td><td>33.4 °C</td><td>31.6 °C</td><td>30.2 °C</td><td>29.1 °C</td><td>28.3 °C</td><td>27.9 °C</td><td>27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.8 kph</td><td>6.1 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>5.8 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>13 kph</td><td>9 kph</td><td>5.8 kph</td>
+        <td>1.8 kph</td><td>6.8 kph</td><td>1.4 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>5.8 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>13 kph</td><td>9 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-08-15T17:25:53Z*
+*Updated at: 2024-08-15T18:32:03Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
