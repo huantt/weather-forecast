@@ -21,11 +21,11 @@ Moderate rain
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light rain</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy light rain</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.1 °C</td><td>28.8 °C</td><td>28.4 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>28.1 °C</td><td>28.4 °C</td><td>31 °C</td><td>32.5 °C</td><td>33.9 °C</td><td>34.7 °C</td><td>35.2 °C</td><td>35.6 °C</td><td>34.4 °C</td><td>33.4 °C</td><td>32.5 °C</td><td>30.9 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28.5 °C</td>
+        <td>29.1 °C</td><td>28.8 °C</td><td>28.4 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>27.3 °C</td><td>27.3 °C</td><td>28.1 °C</td><td>29.7 °C</td><td>31 °C</td><td>32.5 °C</td><td>33.9 °C</td><td>34.7 °C</td><td>35.2 °C</td><td>35.6 °C</td><td>34.4 °C</td><td>33.4 °C</td><td>32.5 °C</td><td>30.9 °C</td><td>29.7 °C</td><td>28.9 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2024-08-20T01:41:24Z*
+*Updated at: 2024-08-20T02:43:06Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
