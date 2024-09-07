@@ -25,11 +25,11 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.3 °C</td><td>27.6 °C</td><td>26.6 °C</td><td>25.7 °C</td><td>24.9 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.3 °C</td><td>24.5 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.4 °C</td>
+        <td>29.3 °C</td><td>27.6 °C</td><td>26.6 °C</td><td>25.7 °C</td><td>24.9 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.3 °C</td><td>24.5 °C</td><td>26.2 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.6 kph</td><td>24.1 kph</td><td>23 kph</td><td>28.1 kph</td><td>29.2 kph</td><td>33.1 kph</td><td>32 kph</td><td>32 kph</td><td>31.3 kph</td><td>36.4 kph</td><td>41.4 kph</td><td>48.2 kph</td><td>50 kph</td><td>52.2 kph</td><td>59 kph</td><td>60.8 kph</td><td>63 kph</td><td>65.2 kph</td><td>61.9 kph</td><td>58.3 kph</td><td>57.2 kph</td><td>47.2 kph</td><td>42.8 kph</td><td>41 kph</td>
+        <td>16.6 kph</td><td>24.1 kph</td><td>23 kph</td><td>28.1 kph</td><td>29.2 kph</td><td>33.1 kph</td><td>32 kph</td><td>32 kph</td><td>31.3 kph</td><td>28.1 kph</td><td>41.4 kph</td><td>48.2 kph</td><td>50 kph</td><td>52.2 kph</td><td>59 kph</td><td>60.8 kph</td><td>63 kph</td><td>65.2 kph</td><td>61.9 kph</td><td>58.3 kph</td><td>57.2 kph</td><td>47.2 kph</td><td>42.8 kph</td><td>41 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Heavy rain
 </table>
 
 
-*Updated at: 2024-09-07T01:45:01Z*
+*Updated at: 2024-09-07T02:46:58Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
