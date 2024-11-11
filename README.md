@@ -25,11 +25,11 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.6 °C</td><td>23.3 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>22.3 °C</td><td>22 °C</td><td>22.8 °C</td><td>24.6 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>29.8 °C</td><td>30.9 °C</td><td>31.5 °C</td><td>32.1 °C</td><td>31.7 °C</td><td>31.3 °C</td><td>29.9 °C</td><td>28.4 °C</td><td>26.9 °C</td><td>26.2 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25 °C</td>
+        <td>23.6 °C</td><td>23.3 °C</td><td>22.9 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>22.3 °C</td><td>22 °C</td><td>22.8 °C</td><td>24.6 °C</td><td>26.5 °C</td><td>28.3 °C</td><td>29.8 °C</td><td>30.9 °C</td><td>31.5 °C</td><td>31.8 °C</td><td>32.3 °C</td><td>31.3 °C</td><td>29.9 °C</td><td>28.4 °C</td><td>26.9 °C</td><td>26.2 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4 kph</td><td>5 kph</td><td>5 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>11.5 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>11.9 kph</td>
+        <td>7.6 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4 kph</td><td>5 kph</td><td>5 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>11.5 kph</td><td>14.8 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>13.7 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2024-11-11T07:27:25Z*
+*Updated at: 2024-11-11T08:33:28Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
