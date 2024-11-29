@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18 °C</td><td>17.5 °C</td><td>17.1 °C</td><td>16.6 °C</td><td>16.2 °C</td><td>15.9 °C</td><td>15.7 °C</td><td>16.1 °C</td><td>18.2 °C</td><td>20.4 °C</td><td>22.3 °C</td><td>24.3 °C</td><td>24.6 °C</td><td>25.3 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>23.8 °C</td><td>22.5 °C</td><td>21.1 °C</td><td>20.4 °C</td><td>19.8 °C</td><td>19.3 °C</td><td>18.9 °C</td>
+        <td>18 °C</td><td>17.5 °C</td><td>17.1 °C</td><td>16.6 °C</td><td>16.2 °C</td><td>15.9 °C</td><td>15.7 °C</td><td>16.1 °C</td><td>18.2 °C</td><td>20.4 °C</td><td>22.3 °C</td><td>23.7 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>23.8 °C</td><td>22.5 °C</td><td>21.1 °C</td><td>20.4 °C</td><td>19.8 °C</td><td>19.3 °C</td><td>18.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,24 +44,24 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.7 -  25.7 °C</td><td>16.9 -  26.9 °C</td><td>17.3 -  24.6 °C</td>
+        <td>15.7 -  25.7 °C</td><td>16.8 -  26.9 °C</td><td>17.3 -  24.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.1 kph</td><td>20.9 kph</td><td>13 kph</td>
+        <td>15.5 kph</td><td>20.9 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-11-29T04:33:29Z*
+*Updated at: 2024-11-29T05:31:19Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
