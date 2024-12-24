@@ -29,7 +29,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>5 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>14.4 kph</td><td>18.4 kph</td><td>15.8 kph</td><td>13 kph</td><td>11.9 kph</td><td>9.4 kph</td>
+        <td>7.2 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>5 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>14.4 kph</td><td>18.4 kph</td><td>15.8 kph</td><td>13 kph</td><td>11.9 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2024-12-24T19:20:24Z*
+*Updated at: 2024-12-24T20:26:48Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
