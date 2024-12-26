@@ -29,7 +29,7 @@ Overcast
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>5.8 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>14.8 kph</td><td>17.3 kph</td><td>15.5 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>13 kph</td><td>14.8 kph</td>
+        <td>6.8 kph</td><td>5.8 kph</td><td>4 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>14.8 kph</td><td>17.3 kph</td><td>15.5 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>13 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2024-12-26T20:27:17Z*
+*Updated at: 2024-12-26T21:24:03Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
