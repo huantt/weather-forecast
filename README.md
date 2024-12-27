@@ -21,11 +21,11 @@ Overcast
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.5 °C</td><td>19.2 °C</td><td>18.8 °C</td><td>18.6 °C</td><td>18.2 °C</td><td>18.4 °C</td><td>18.4 °C</td><td>18.4 °C</td><td>18.8 °C</td><td>19.3 °C</td><td>18.7 °C</td><td>19.2 °C</td><td>19.7 °C</td><td>20.3 °C</td><td>20.9 °C</td><td>21 °C</td><td>20.5 °C</td><td>20 °C</td><td>19.4 °C</td><td>17 °C</td><td>18.9 °C</td><td>18.5 °C</td><td>18.3 °C</td><td>18.1 °C</td>
+        <td>19.5 °C</td><td>19.2 °C</td><td>18.8 °C</td><td>18.6 °C</td><td>18.2 °C</td><td>18.4 °C</td><td>18.4 °C</td><td>18.4 °C</td><td>18.8 °C</td><td>19.3 °C</td><td>18.7 °C</td><td>19.2 °C</td><td>19.7 °C</td><td>20.3 °C</td><td>20.9 °C</td><td>21 °C</td><td>20.5 °C</td><td>20 °C</td><td>19.4 °C</td><td>19.1 °C</td><td>17.2 °C</td><td>18.5 °C</td><td>18.3 °C</td><td>18.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2024-12-27T12:48:25Z*
+*Updated at: 2024-12-27T13:29:04Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
