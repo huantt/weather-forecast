@@ -3,9 +3,9 @@
 
 `Hanoi, Vietnam - 07/01/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Partly Cloudy 
+Patchy rain nearby
 
 </div>
 
@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.2 °C</td><td>16.7 °C</td><td>16.3 °C</td><td>16 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.1 °C</td><td>15.2 °C</td><td>17.1 °C</td><td>19.1 °C</td><td>20.4 °C</td><td>21.1 °C</td><td>21.5 °C</td><td>21.7 °C</td><td>22 °C</td><td>22.2 °C</td><td>21.9 °C</td><td>21.1 °C</td><td>20 °C</td><td>19.4 °C</td><td>19.1 °C</td><td>19.1 °C</td><td>19.1 °C</td><td>19.1 °C</td>
+        <td>17.2 °C</td><td>16.7 °C</td><td>16.3 °C</td><td>16 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.1 °C</td><td>15.2 °C</td><td>17.1 °C</td><td>19.1 °C</td><td>20.4 °C</td><td>21.1 °C</td><td>21.5 °C</td><td>21.7 °C</td><td>22 °C</td><td>22.2 °C</td><td>21.9 °C</td><td>21.1 °C</td><td>20 °C</td><td>19.4 °C</td><td>19.1 °C</td><td>19.1 °C</td><td>19.1 °C</td><td>19.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,24 +44,24 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.1 -  22.2 °C</td><td>18 -  23.6 °C</td><td>17.7 -  23.1 °C</td>
+        <td>14.9 -  22.9 °C</td><td>18.1 -  22 °C</td><td>14.8 -  20.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.6 kph</td><td>20.5 kph</td><td>18 kph</td>
+        <td>9.7 kph</td><td>13.3 kph</td><td>24.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-01-07T16:45:53Z*
+*Updated at: 2025-01-07T17:27:39Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
