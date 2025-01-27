@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.7 °C</td><td>13.5 °C</td><td>13.3 °C</td><td>13.3 °C</td><td>13.3 °C</td><td>13.2 °C</td><td>13.2 °C</td><td>13.2 °C</td><td>13.5 °C</td><td>14.2 °C</td><td>15.3 °C</td><td>16.7 °C</td><td>18 °C</td><td>18.8 °C</td><td>18.3 °C</td><td>19.6 °C</td><td>19.5 °C</td><td>19.1 °C</td><td>17.6 °C</td><td>16.8 °C</td><td>16.4 °C</td><td>15.6 °C</td><td>14.8 °C</td><td>14.4 °C</td>
+        <td>13.7 °C</td><td>13.5 °C</td><td>13.3 °C</td><td>13.3 °C</td><td>13.3 °C</td><td>13.2 °C</td><td>13.2 °C</td><td>13.2 °C</td><td>13.5 °C</td><td>14.2 °C</td><td>15.3 °C</td><td>16.7 °C</td><td>18 °C</td><td>18.8 °C</td><td>19.5 °C</td><td>19.1 °C</td><td>19.5 °C</td><td>19.1 °C</td><td>17.6 °C</td><td>16.8 °C</td><td>16.4 °C</td><td>15.6 °C</td><td>14.8 °C</td><td>14.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2025-01-27T07:24:47Z*
+*Updated at: 2025-01-27T08:32:34Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
