@@ -21,11 +21,11 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>14.1 °C</td><td>14.3 °C</td><td>13.5 °C</td><td>12.9 °C</td><td>12.4 °C</td><td>11.8 °C</td><td>11.4 °C</td><td>11.9 °C</td><td>13 °C</td><td>13.5 °C</td><td>15.4 °C</td><td>17.5 °C</td><td>18.6 °C</td><td>18.2 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>19.1 °C</td><td>18.7 °C</td><td>17.2 °C</td><td>16.5 °C</td><td>16 °C</td><td>15.4 °C</td><td>15.4 °C</td><td>14.3 °C</td>
+        <td>14.1 °C</td><td>14.3 °C</td><td>13.5 °C</td><td>12.9 °C</td><td>12.4 °C</td><td>11.8 °C</td><td>11.4 °C</td><td>11.9 °C</td><td>13 °C</td><td>13.5 °C</td><td>15.4 °C</td><td>17.5 °C</td><td>18.6 °C</td><td>18.2 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>19.1 °C</td><td>18.7 °C</td><td>17.2 °C</td><td>16.5 °C</td><td>16 °C</td><td>15.4 °C</td><td>14.8 °C</td><td>13.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2025-01-28T15:28:24Z*
+*Updated at: 2025-01-28T16:32:29Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
