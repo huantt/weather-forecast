@@ -25,7 +25,7 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.6 °C</td><td>23.3 °C</td><td>22.1 °C</td><td>21.9 °C</td><td>21.6 °C</td><td>21.9 °C</td><td>22.2 °C</td><td>22.2 °C</td><td>22.5 °C</td><td>23.1 °C</td><td>23.8 °C</td><td>24.6 °C</td><td>25.5 °C</td><td>26.2 °C</td><td>26.3 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>25.9 °C</td><td>25.1 °C</td><td>24.5 °C</td><td>24 °C</td><td>23.6 °C</td><td>23.4 °C</td><td>23.1 °C</td>
+        <td>22.6 °C</td><td>23 °C</td><td>22.1 °C</td><td>21.9 °C</td><td>21.6 °C</td><td>21.9 °C</td><td>22.2 °C</td><td>22.2 °C</td><td>22.5 °C</td><td>23.1 °C</td><td>23.8 °C</td><td>24.6 °C</td><td>25.5 °C</td><td>26.2 °C</td><td>26.3 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>25.9 °C</td><td>25.1 °C</td><td>24.5 °C</td><td>24 °C</td><td>23.6 °C</td><td>23.4 °C</td><td>23.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2025-03-03T17:28:25Z*
+*Updated at: 2025-03-03T18:34:04Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
