@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.9 °C</td><td>17.5 °C</td><td>17.3 °C</td><td>17.1 °C</td><td>17 °C</td><td>16.7 °C</td><td>16.3 °C</td><td>17.5 °C</td><td>19.7 °C</td><td>21.8 °C</td><td>22 °C</td><td>24.9 °C</td><td>26 °C</td><td>26.9 °C</td><td>27.4 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>25.7 °C</td><td>23 °C</td><td>21.5 °C</td><td>20.3 °C</td><td>19.6 °C</td><td>19 °C</td><td>18.5 °C</td>
+        <td>17.9 °C</td><td>17.5 °C</td><td>17.3 °C</td><td>17.1 °C</td><td>17 °C</td><td>16.7 °C</td><td>16.4 °C</td><td>17.5 °C</td><td>19.6 °C</td><td>21.7 °C</td><td>23.5 °C</td><td>25.2 °C</td><td>25.9 °C</td><td>26.8 °C</td><td>27.4 °C</td><td>27.7 °C</td><td>27.4 °C</td><td>26 °C</td><td>23.2 °C</td><td>21.7 °C</td><td>20.5 °C</td><td>19.6 °C</td><td>19 °C</td><td>18.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>7.9 kph</td><td>5.4 kph</td><td>4 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>5 kph</td><td>4 kph</td><td>5 kph</td><td>5 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>17.3 kph</td><td>21.2 kph</td><td>20.9 kph</td><td>18.7 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>14.4 kph</td><td>12.6 kph</td>
+        <td>9.7 kph</td><td>7.9 kph</td><td>5.4 kph</td><td>4 kph</td><td>2.5 kph</td><td>4.3 kph</td><td>5 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>9 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>15.8 kph</td><td>21.2 kph</td><td>21.2 kph</td><td>18.7 kph</td><td>17.3 kph</td><td>15.5 kph</td><td>14.8 kph</td><td>13 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Sunny
 </table>
 
 
-*Updated at: 2025-03-21T03:41:01Z*
+*Updated at: 2025-03-21T04:32:37Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
