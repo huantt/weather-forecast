@@ -21,15 +21,15 @@ Sunny
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.7 °C</td><td>19.7 °C</td><td>20.3 °C</td><td>19.3 °C</td><td>19.1 °C</td><td>18.9 °C</td><td>18.9 °C</td><td>20.7 °C</td><td>23.1 °C</td><td>25.3 °C</td><td>27.8 °C</td><td>30.1 °C</td><td>31.9 °C</td><td>32.4 °C</td><td>32.9 °C</td><td>33.2 °C</td><td>32.8 °C</td><td>30.5 °C</td><td>26.8 °C</td><td>24.9 °C</td><td>23.4 °C</td><td>22.4 °C</td><td>21.6 °C</td><td>21.1 °C</td>
+        <td>19.7 °C</td><td>19.7 °C</td><td>19.4 °C</td><td>20.2 °C</td><td>19.1 °C</td><td>18.9 °C</td><td>18.9 °C</td><td>20.7 °C</td><td>23.1 °C</td><td>25.3 °C</td><td>27.8 °C</td><td>30.1 °C</td><td>31.9 °C</td><td>32.4 °C</td><td>32.9 °C</td><td>33.2 °C</td><td>32.8 °C</td><td>30.5 °C</td><td>26.8 °C</td><td>24.9 °C</td><td>23.4 °C</td><td>22.4 °C</td><td>21.6 °C</td><td>21.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.7 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>5 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>14.4 kph</td><td>18 kph</td><td>19.8 kph</td><td>19.4 kph</td><td>18.4 kph</td><td>14.4 kph</td><td>12.2 kph</td><td>11.9 kph</td>
+        <td>4.7 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>5 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>14.4 kph</td><td>18 kph</td><td>19.8 kph</td><td>19.4 kph</td><td>18.4 kph</td><td>14.4 kph</td><td>12.2 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Sunny
 </table>
 
 
-*Updated at: 2025-04-14T19:23:18Z*
+*Updated at: 2025-04-14T20:31:18Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
