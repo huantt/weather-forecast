@@ -3,9 +3,9 @@
 
 `Hanoi, Vietnam - 04/05/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Heavy rain
+Moderate rain
 
 </div>
 
@@ -25,7 +25,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 °C</td><td>27.3 °C</td><td>25 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>25 °C</td><td>26.3 °C</td><td>27.7 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>32.4 °C</td><td>34.3 °C</td><td>35.5 °C</td><td>36.1 °C</td><td>35.5 °C</td><td>34.7 °C</td><td>30.4 °C</td><td>27.7 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>26.3 °C</td><td>26.3 °C</td><td>26.2 °C</td>
+        <td>25.3 °C</td><td>27.2 °C</td><td>25 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>25 °C</td><td>26.3 °C</td><td>27.7 °C</td><td>29.2 °C</td><td>30.5 °C</td><td>32.4 °C</td><td>34.3 °C</td><td>35.5 °C</td><td>36.1 °C</td><td>35.5 °C</td><td>34.7 °C</td><td>30.4 °C</td><td>27.7 °C</td><td>26.5 °C</td><td>26.1 °C</td><td>26.3 °C</td><td>26.3 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,24 +44,24 @@ Heavy rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Heavy rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.9 -  35.7 °C</td><td>25.5 -  34.4 °C</td><td>25.5 -  32.8 °C</td>
+        <td>24.8 -  36.1 °C</td><td>25.4 -  35.4 °C</td><td>25.7 -  34.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>32.8 kph</td><td>14.8 kph</td><td>17.6 kph</td>
+        <td>23 kph</td><td>20.2 kph</td><td>19.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-05-03T17:27:29Z*
+*Updated at: 2025-05-03T18:35:21Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
