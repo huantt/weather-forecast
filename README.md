@@ -25,7 +25,7 @@ Thundery outbreaks in nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.3 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28.2 °C</td><td>28.2 °C</td><td>28.2 °C</td><td>29 °C</td><td>30.4 °C</td><td>33.3 °C</td><td>33.2 °C</td><td>34.5 °C</td><td>35.3 °C</td><td>36 °C</td><td>36.5 °C</td><td>36.9 °C</td><td>37 °C</td><td>36.6 °C</td><td>35.2 °C</td><td>33.6 °C</td><td>32.3 °C</td><td>31.3 °C</td><td>30.9 °C</td><td>30.6 °C</td>
+        <td>29.3 °C</td><td>28.8 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28.2 °C</td><td>28.2 °C</td><td>28.2 °C</td><td>29 °C</td><td>30.4 °C</td><td>31.8 °C</td><td>35.1 °C</td><td>34.5 °C</td><td>35.3 °C</td><td>36 °C</td><td>36.5 °C</td><td>36.9 °C</td><td>37 °C</td><td>36.6 °C</td><td>35.2 °C</td><td>33.6 °C</td><td>32.3 °C</td><td>31.3 °C</td><td>30.9 °C</td><td>30.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Thundery outbreaks in nearby
 </table>
 
 
-*Updated at: 2025-07-09T02:23:09Z*
+*Updated at: 2025-07-09T04:00:25Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
