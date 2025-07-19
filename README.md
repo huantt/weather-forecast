@@ -25,7 +25,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>26.2 °C</td><td>25.6 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>26.4 °C</td><td>27.5 °C</td><td>29.4 °C</td><td>31.1 °C</td><td>32.9 °C</td><td>34.3 °C</td><td>34.7 °C</td><td>35.5 °C</td><td>36.3 °C</td><td>36.6 °C</td><td>35.3 °C</td><td>33.3 °C</td><td>31.8 °C</td><td>30.7 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>29 °C</td>
+        <td>25.4 °C</td><td>25.5 °C</td><td>26.3 °C</td><td>25.7 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.8 °C</td><td>26.4 °C</td><td>27.5 °C</td><td>29.4 °C</td><td>31.1 °C</td><td>32.9 °C</td><td>34.3 °C</td><td>34.7 °C</td><td>35.5 °C</td><td>36.3 °C</td><td>36.6 °C</td><td>35.3 °C</td><td>33.3 °C</td><td>31.8 °C</td><td>30.7 °C</td><td>29.3 °C</td><td>29.1 °C</td><td>29 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2025-07-19T18:41:11Z*
+*Updated at: 2025-07-19T19:25:13Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
