@@ -1,11 +1,11 @@
 ## Today's Weather
 <div align="center">
 
-`Hanoi, Vietnam - 20/10/2025`
+`Hanoi, Vietnam - 21/10/2025`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Partly Cloudy 
+Sunny
 
 </div>
 
@@ -17,19 +17,19 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>23.9 °C</td><td>23.7 °C</td><td>23.4 °C</td><td>23.2 °C</td><td>23.5 °C</td><td>24.9 °C</td><td>26.1 °C</td><td>27.3 °C</td><td>28.4 °C</td><td>29.2 °C</td><td>29.7 °C</td><td>29.8 °C</td><td>29.5 °C</td><td>28.7 °C</td><td>26.8 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.5 °C</td><td>24.1 °C</td><td>23.7 °C</td><td>24.1 °C</td>
+        <td>23 °C</td><td>24.1 °C</td><td>22.2 °C</td><td>21.9 °C</td><td>21.5 °C</td><td>21.1 °C</td><td>20.8 °C</td><td>21.3 °C</td><td>22.7 °C</td><td>23.9 °C</td><td>24.9 °C</td><td>26 °C</td><td>27.2 °C</td><td>27.9 °C</td><td>28.4 °C</td><td>28.1 °C</td><td>27.2 °C</td><td>25.3 °C</td><td>24 °C</td><td>23.4 °C</td><td>22.8 °C</td><td>22.3 °C</td><td>22.1 °C</td><td>21.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.5 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>16.9 kph</td><td>16.9 kph</td><td>18.7 kph</td><td>19.4 kph</td><td>23.4 kph</td><td>24.8 kph</td><td>23.4 kph</td><td>22.3 kph</td><td>21.6 kph</td><td>22 kph</td><td>22.3 kph</td><td>22.7 kph</td><td>21.2 kph</td><td>21.2 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>16.9 kph</td><td>16.9 kph</td><td>17.6 kph</td><td>19.4 kph</td>
+        <td>19.8 kph</td><td>20.9 kph</td><td>21.6 kph</td><td>20.5 kph</td><td>19.4 kph</td><td>18.4 kph</td><td>18 kph</td><td>19.1 kph</td><td>23 kph</td><td>26.3 kph</td><td>28.4 kph</td><td>28.8 kph</td><td>27.7 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>25.9 kph</td><td>23 kph</td><td>22 kph</td><td>20.9 kph</td><td>22.3 kph</td><td>22.7 kph</td><td>23.4 kph</td><td>25.2 kph</td><td>24.5 kph</td>
     </tr>
 </table>
 
@@ -40,28 +40,28 @@ Partly Cloudy
 <table>
     <tr>
         <th>Date</th>
-        <td>20/10/2025</td><td>21/10/2025</td><td>22/10/2025</td>
+        <td>21/10/2025</td><td>22/10/2025</td><td>23/10/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.2 -  29.8 °C</td><td>21 -  28 °C</td><td>20.1 -  27.1 °C</td>
+        <td>20.8 -  28.4 °C</td><td>20.2 -  25 °C</td><td>19.8 -  21 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>24.8 kph</td><td>28.8 kph</td><td>26.6 kph</td>
+        <td>28.8 kph</td><td>26.3 kph</td><td>18.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-10-20T16:36:34Z*
+*Updated at: 2025-10-20T17:29:07Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
