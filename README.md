@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.2 °C</td><td>21 °C</td><td>20.8 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.1 °C</td><td>19.8 °C</td><td>19.5 °C</td><td>19 °C</td><td>18.4 °C</td><td>17.7 °C</td><td>17.2 °C</td><td>17 °C</td><td>16.8 °C</td><td>21.3 °C</td><td>16.3 °C</td><td>16.3 °C</td><td>16.4 °C</td><td>16.6 °C</td><td>16.8 °C</td><td>17 °C</td><td>17.4 °C</td><td>17.6 °C</td>
+        <td>21.2 °C</td><td>21 °C</td><td>20.8 °C</td><td>20.6 °C</td><td>20.6 °C</td><td>20.4 °C</td><td>20.1 °C</td><td>19.8 °C</td><td>19.5 °C</td><td>19 °C</td><td>18.4 °C</td><td>17.7 °C</td><td>17.2 °C</td><td>17 °C</td><td>16.8 °C</td><td>16.5 °C</td><td>21.4 °C</td><td>16.3 °C</td><td>16.4 °C</td><td>16.6 °C</td><td>16.8 °C</td><td>17 °C</td><td>17.4 °C</td><td>17.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-10-23T08:38:40Z*
+*Updated at: 2025-10-23T09:32:01Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
