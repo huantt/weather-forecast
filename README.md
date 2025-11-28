@@ -1,7 +1,7 @@
 ## Today's Weather
 <div align="center">
 
-`Hanoi, Vietnam - 28/11/2025`
+`Hanoi, Vietnam - 29/11/2025`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.4 °C</td><td>15.8 °C</td><td>15.4 °C</td><td>14.8 °C</td><td>14.5 °C</td><td>14 °C</td><td>13.7 °C</td><td>14 °C</td><td>15.9 °C</td><td>18.1 °C</td><td>20.2 °C</td><td>21.9 °C</td><td>23.2 °C</td><td>24 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.1 °C</td><td>21.9 °C</td><td>20.8 °C</td><td>20.1 °C</td><td>19 °C</td><td>17.8 °C</td><td>17 °C</td><td>16.2 °C</td>
+        <td>16.1 °C</td><td>15.3 °C</td><td>15.5 °C</td><td>15.1 °C</td><td>14.7 °C</td><td>14.3 °C</td><td>14 °C</td><td>14.5 °C</td><td>16.1 °C</td><td>18 °C</td><td>19.7 °C</td><td>21.3 °C</td><td>22.7 °C</td><td>23.6 °C</td><td>24 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>22.3 °C</td><td>21.2 °C</td><td>19.9 °C</td><td>18.8 °C</td><td>18.3 °C</td><td>17.9 °C</td><td>17.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>8.6 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>13.7 kph</td><td>13 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>5.8 kph</td><td>2.9 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>5 kph</td><td>7.6 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>9.7 kph</td>
+        <td>8.6 kph</td><td>6.1 kph</td><td>4 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>6.1 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>10.4 kph</td><td>9 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
@@ -40,7 +40,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>28/11/2025</td><td>29/11/2025</td><td>30/11/2025</td>
+        <td>29/11/2025</td><td>30/11/2025</td><td>01/12/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -52,16 +52,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.7 -  24.4 °C</td><td>14 -  24.1 °C</td><td>15 -  24.4 °C</td>
+        <td>14 -  24.1 °C</td><td>15 -  24.4 °C</td><td>16.6 -  26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>11.9 kph</td><td>8.3 kph</td>
+        <td>11.9 kph</td><td>8.3 kph</td><td>16.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-11-28T16:37:05Z*
+*Updated at: 2025-11-28T17:29:47Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
