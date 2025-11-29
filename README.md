@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.5 °C</td><td>16 °C</td><td>15.7 °C</td><td>15.5 °C</td><td>15 °C</td><td>14.5 °C</td><td>14 °C</td><td>14.3 °C</td><td>16.1 °C</td><td>18 °C</td><td>19.7 °C</td><td>21.3 °C</td><td>22.7 °C</td><td>23.7 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24 °C</td><td>22.3 °C</td><td>21.2 °C</td><td>20.3 °C</td><td>18.9 °C</td><td>16.4 °C</td><td>17.8 °C</td><td>17.4 °C</td>
+        <td>16.5 °C</td><td>16 °C</td><td>15.7 °C</td><td>15.5 °C</td><td>15 °C</td><td>14.5 °C</td><td>14 °C</td><td>14.3 °C</td><td>16.1 °C</td><td>18 °C</td><td>19.7 °C</td><td>21.3 °C</td><td>22.7 °C</td><td>23.7 °C</td><td>24.2 °C</td><td>24.2 °C</td><td>24 °C</td><td>22.3 °C</td><td>21.2 °C</td><td>20.3 °C</td><td>18.9 °C</td><td>18.2 °C</td><td>16.3 °C</td><td>17.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Sunny
 </table>
 
 
-*Updated at: 2025-11-29T14:30:12Z*
+*Updated at: 2025-11-29T15:28:48Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
