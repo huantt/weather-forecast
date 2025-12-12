@@ -25,7 +25,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.2 °C</td><td>21.3 °C</td><td>20.1 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>19.8 °C</td><td>19.8 °C</td><td>19.8 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>19.7 °C</td><td>18.2 °C</td><td>17.2 °C</td><td>16.6 °C</td><td>16.4 °C</td><td>16.4 °C</td><td>16.1 °C</td><td>15.8 °C</td>
+        <td>20.2 °C</td><td>21.2 °C</td><td>20.1 °C</td><td>20 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>19.8 °C</td><td>19.8 °C</td><td>19.8 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>19.7 °C</td><td>18.2 °C</td><td>17.2 °C</td><td>16.6 °C</td><td>16.4 °C</td><td>16.4 °C</td><td>16.1 °C</td><td>15.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Heavy rain
 </table>
 
 
-*Updated at: 2025-12-12T17:33:10Z*
+*Updated at: 2025-12-12T18:46:53Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
