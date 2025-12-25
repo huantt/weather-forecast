@@ -25,7 +25,7 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.3 °C</td><td>17.1 °C</td><td>15 °C</td><td>15 °C</td><td>14.9 °C</td><td>14.8 °C</td><td>14.7 °C</td><td>14.7 °C</td><td>15.1 °C</td><td>15.8 °C</td><td>16.4 °C</td><td>16.9 °C</td><td>17.5 °C</td><td>18.2 °C</td><td>18.8 °C</td><td>19 °C</td><td>18.9 °C</td><td>18.5 °C</td><td>17.9 °C</td><td>17.4 °C</td><td>16.8 °C</td><td>16.2 °C</td><td>16 °C</td><td>16.2 °C</td>
+        <td>15.3 °C</td><td>17 °C</td><td>15 °C</td><td>15 °C</td><td>14.9 °C</td><td>14.8 °C</td><td>14.7 °C</td><td>14.7 °C</td><td>15.1 °C</td><td>15.8 °C</td><td>16.4 °C</td><td>16.9 °C</td><td>17.5 °C</td><td>18.2 °C</td><td>18.8 °C</td><td>19 °C</td><td>18.9 °C</td><td>18.5 °C</td><td>17.9 °C</td><td>17.4 °C</td><td>16.8 °C</td><td>16.2 °C</td><td>16 °C</td><td>16.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2025-12-25T17:31:38Z*
+*Updated at: 2025-12-25T18:44:50Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
