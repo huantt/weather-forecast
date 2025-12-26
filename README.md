@@ -25,11 +25,11 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.6 °C</td><td>15.8 °C</td><td>15.3 °C</td><td>15.7 °C</td><td>15.8 °C</td><td>15.8 °C</td><td>15.8 °C</td><td>15.8 °C</td><td>16.1 °C</td><td>16.5 °C</td><td>16.9 °C</td><td>17.4 °C</td><td>17.9 °C</td><td>18.3 °C</td><td>18.6 °C</td><td>18.9 °C</td><td>18.8 °C</td><td>18.3 °C</td><td>17.4 °C</td><td>17.4 °C</td><td>17.5 °C</td><td>17.4 °C</td><td>17.2 °C</td><td>17.1 °C</td>
+        <td>15.6 °C</td><td>15.8 °C</td><td>15.9 °C</td><td>15.2 °C</td><td>15.8 °C</td><td>15.8 °C</td><td>15.8 °C</td><td>15.8 °C</td><td>16.1 °C</td><td>16.5 °C</td><td>16.9 °C</td><td>17.4 °C</td><td>17.9 °C</td><td>18.3 °C</td><td>18.6 °C</td><td>18.9 °C</td><td>18.8 °C</td><td>18.3 °C</td><td>17.4 °C</td><td>17.4 °C</td><td>17.5 °C</td><td>17.4 °C</td><td>17.2 °C</td><td>17.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>1.1 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.1 kph</td>
+        <td>7.6 kph</td><td>6.1 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Overcast
 </table>
 
 
-*Updated at: 2025-12-26T19:25:45Z*
+*Updated at: 2025-12-26T20:32:53Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
