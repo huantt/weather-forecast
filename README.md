@@ -21,11 +21,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20 °C</td><td>19.8 °C</td><td>19.5 °C</td><td>19.3 °C</td><td>19 °C</td><td>16.3 °C</td><td>18.2 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.9 °C</td><td>17.9 °C</td><td>17.9 °C</td><td>18.3 °C</td><td>18.4 °C</td><td>17.9 °C</td><td>17.5 °C</td><td>17 °C</td><td>16.4 °C</td><td>15.9 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.3 °C</td>
+        <td>20 °C</td><td>19.8 °C</td><td>19.5 °C</td><td>19.3 °C</td><td>19 °C</td><td>18.7 °C</td><td>16 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.9 °C</td><td>17.9 °C</td><td>17.9 °C</td><td>18.3 °C</td><td>18.4 °C</td><td>17.9 °C</td><td>17.5 °C</td><td>17 °C</td><td>16.4 °C</td><td>15.9 °C</td><td>15.6 °C</td><td>15.4 °C</td><td>15.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2026-01-01T22:34:05Z*
+*Updated at: 2026-01-01T23:30:40Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
