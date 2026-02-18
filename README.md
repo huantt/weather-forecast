@@ -21,15 +21,15 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td><td width="200px">Light drizzle</td><td width="200px">Light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast</td><td width="200px">Overcast </td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light drizzle</td><td width="200px">Light drizzle</td><td width="200px">Light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast </td><td width="200px">Overcast </td><td width="200px">Overcast</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.6 °C</td><td>20.4 °C</td><td>20.1 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>19.7 °C</td><td>19.6 °C</td><td>19.4 °C</td><td>19.3 °C</td><td>18.8 °C</td><td>18.6 °C</td><td>18.7 °C</td><td>18.9 °C</td><td>19 °C</td><td>19.3 °C</td><td>19.6 °C</td><td>19 °C</td><td>19 °C</td><td>18.8 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>18.8 °C</td>
+        <td>20.6 °C</td><td>20.4 °C</td><td>20.1 °C</td><td>19.9 °C</td><td>19.8 °C</td><td>19.7 °C</td><td>19.6 °C</td><td>19.4 °C</td><td>19.3 °C</td><td>18.8 °C</td><td>18.6 °C</td><td>18.7 °C</td><td>18.9 °C</td><td>19 °C</td><td>19.3 °C</td><td>19.6 °C</td><td>19 °C</td><td>19 °C</td><td>18.8 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>18.7 °C</td><td>18.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>2.5 kph</td>
+        <td>4 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2026-02-18T15:01:54Z*
+*Updated at: 2026-02-18T16:05:47Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
