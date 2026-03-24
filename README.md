@@ -1,4 +1,6 @@
 ## Today's Weather
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/weather-forecast)
 <div align="center">
 
 `Hanoi, Vietnam - 24/03/2026`
