@@ -21,11 +21,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Overcast</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Moderate or heavy rain in area with thunder</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Overcast</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Moderate or heavy rain in area with thunder</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.3 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.8 °C</td><td>23.9 °C</td><td>25.5 °C</td><td>27.8 °C</td><td>29.3 °C</td><td>29.7 °C</td><td>30.3 °C</td><td>30.6 °C</td><td>31.7 °C</td><td>31.8 °C</td><td>31.2 °C</td><td>28.8 °C</td><td>26.7 °C</td><td>25 °C</td><td>24.5 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.3 °C</td>
+        <td>23.3 °C</td><td>25.1 °C</td><td>23.3 °C</td><td>23 °C</td><td>22.5 °C</td><td>22.5 °C</td><td>22.8 °C</td><td>23.9 °C</td><td>25.5 °C</td><td>27.8 °C</td><td>29.3 °C</td><td>29.7 °C</td><td>30.3 °C</td><td>30.6 °C</td><td>31.7 °C</td><td>31.8 °C</td><td>31.2 °C</td><td>28.8 °C</td><td>26.7 °C</td><td>25 °C</td><td>24.5 °C</td><td>24 °C</td><td>24.2 °C</td><td>24.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2026-04-26T17:00:41Z*
+*Updated at: 2026-04-26T17:56:29Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
