@@ -1,7 +1,7 @@
 ## Today's Weather
 <div align="center">
 
-`Hanoi, Vietnam - 04/06/2026`
+`Hanoi, Vietnam - 05/06/2026`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
@@ -17,19 +17,19 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/389.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/389.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/386.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/389.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/299.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear</td><td width="200px">Partly Cloudy</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td><td width="200px">Overcast</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Moderate or heavy rain in area with thunder</td><td width="200px">Moderate or heavy rain with thunder</td><td width="200px">Patchy light rain in area with thunder</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate or heavy rain with thunder</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy</td><td width="200px">Partly Cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Thundery outbreaks in nearby</td><td width="200px">Sunny</td><td width="200px">Patchy light rain in area with thunder</td><td width="200px">Moderate rain at times</td><td width="200px">Clear</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28 °C</td><td>27.8 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.4 °C</td><td>27.1 °C</td><td>27.4 °C</td><td>28.3 °C</td><td>29.8 °C</td><td>31.5 °C</td><td>32.6 °C</td><td>33.8 °C</td><td>34.9 °C</td><td>35.5 °C</td><td>35.6 °C</td><td>35.8 °C</td><td>35.8 °C</td><td>35.4 °C</td><td>33.7 °C</td><td>31.3 °C</td><td>32.2 °C</td><td>29.2 °C</td><td>28.9 °C</td><td>28.7 °C</td>
+        <td>27.9 °C</td><td>24.1 °C</td><td>27.5 °C</td><td>27.5 °C</td><td>27.5 °C</td><td>27.3 °C</td><td>27.4 °C</td><td>28.3 °C</td><td>29.3 °C</td><td>30.1 °C</td><td>31.1 °C</td><td>32.2 °C</td><td>32.9 °C</td><td>33.5 °C</td><td>33.9 °C</td><td>33.6 °C</td><td>32.9 °C</td><td>32.3 °C</td><td>31.5 °C</td><td>30 °C</td><td>27.3 °C</td><td>26.2 °C</td><td>26.5 °C</td><td>26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>9 kph</td><td>7.9 kph</td><td>5 kph</td><td>5 kph</td><td>2.5 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>6.8 kph</td><td>9 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>0.7 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>4.3 kph</td>
+        <td>2.9 kph</td><td>3.6 kph</td><td>5 kph</td><td>7.6 kph</td><td>4.3 kph</td><td>5 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>9 kph</td><td>9.7 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>16.2 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
@@ -40,7 +40,7 @@ Moderate rain
 <table>
     <tr>
         <th>Date</th>
-        <td>04/06/2026</td><td>05/06/2026</td><td>06/06/2026</td>
+        <td>05/06/2026</td><td>06/06/2026</td><td>07/06/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -52,16 +52,16 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 -  35.8 °C</td><td>27.1 -  35.4 °C</td><td>27 -  37.6 °C</td>
+        <td>26.2 -  33.9 °C</td><td>26.1 -  37.5 °C</td><td>28.1 -  39.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>10.4 kph</td><td>17.3 kph</td>
+        <td>16.2 kph</td><td>17.3 kph</td><td>16.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-06-04T14:08:42Z*
+*Updated at: 2026-06-04T17:20:23Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
