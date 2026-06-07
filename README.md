@@ -25,11 +25,11 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>30.5 °C</td><td>32.1 °C</td><td>29.8 °C</td><td>29.6 °C</td><td>29.4 °C</td><td>29.1 °C</td><td>29.5 °C</td><td>30.9 °C</td><td>32.2 °C</td><td>33.6 °C</td><td>34.6 °C</td><td>35.3 °C</td><td>36.6 °C</td><td>37.4 °C</td><td>37.5 °C</td><td>33.1 °C</td><td>30.3 °C</td><td>29.2 °C</td><td>28.1 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26 °C</td>
+        <td>30.5 °C</td><td>30.1 °C</td><td>29.8 °C</td><td>31.3 °C</td><td>29.4 °C</td><td>29.1 °C</td><td>29.5 °C</td><td>30.9 °C</td><td>32.2 °C</td><td>33.6 °C</td><td>34.6 °C</td><td>35.3 °C</td><td>36.6 °C</td><td>37.4 °C</td><td>37.5 °C</td><td>33.1 °C</td><td>30.3 °C</td><td>29.2 °C</td><td>28.1 °C</td><td>27.3 °C</td><td>26.8 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>5 kph</td><td>5.8 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>26.3 kph</td><td>27.7 kph</td><td>28.1 kph</td><td>26.3 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>17.6 kph</td><td>14.8 kph</td><td>14.8 kph</td>
+        <td>4 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>5 kph</td><td>5.8 kph</td><td>8.6 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>11.5 kph</td><td>26.3 kph</td><td>27.7 kph</td><td>28.1 kph</td><td>26.3 kph</td><td>22.7 kph</td><td>21.6 kph</td><td>17.6 kph</td><td>14.8 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2026-06-07T18:18:07Z*
+*Updated at: 2026-06-07T20:36:32Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
