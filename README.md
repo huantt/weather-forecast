@@ -25,7 +25,7 @@ Smoky haze
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29 °C</td><td>28.6 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>28.1 °C</td><td>28 °C</td><td>29 °C</td><td>29 °C</td><td>29.8 °C</td><td>30.1 °C</td><td>30.6 °C</td><td>31.3 °C</td><td>31.9 °C</td><td>32 °C</td><td>32.3 °C</td><td>32.6 °C</td><td>32.9 °C</td><td>32 °C</td><td>30.7 °C</td><td>29.8 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>29 °C</td><td>28.7 °C</td>
+        <td>29 °C</td><td>28.6 °C</td><td>28.4 °C</td><td>28.2 °C</td><td>28.1 °C</td><td>28 °C</td><td>30.3 °C</td><td>29 °C</td><td>29.8 °C</td><td>30.1 °C</td><td>30.6 °C</td><td>31.3 °C</td><td>31.9 °C</td><td>32 °C</td><td>32.3 °C</td><td>32.6 °C</td><td>32.9 °C</td><td>32 °C</td><td>30.7 °C</td><td>29.8 °C</td><td>29.4 °C</td><td>29.2 °C</td><td>29 °C</td><td>28.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,7 +61,7 @@ Smoky haze
 </table>
 
 
-*Updated at: 2026-07-15T23:10:28Z*
+*Updated at: 2026-07-16T00:07:39Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
