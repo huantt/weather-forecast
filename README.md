@@ -25,11 +25,11 @@ Smoky haze
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29 °C</td><td>28.6 °C</td><td>28.4 °C</td><td>28.1 °C</td><td>20.8 °C</td><td>20.9 °C</td><td>20.9 °C</td><td>20.9 °C</td><td>21.1 °C</td><td>21.2 °C</td><td>21.2 °C</td><td>21.3 °C</td><td>21.4 °C</td><td>21.5 °C</td><td>21.6 °C</td><td>21.8 °C</td><td>21.7 °C</td><td>21.8 °C</td><td>21.8 °C</td><td>21.9 °C</td><td>21.8 °C</td><td>21.8 °C</td><td>21.8 °C</td><td>21.7 °C</td>
+        <td>21 °C</td><td>20.9 °C</td><td>20.9 °C</td><td>20.8 °C</td><td>20.7 °C</td><td>20.7 °C</td><td>20.8 °C</td><td>21 °C</td><td>21 °C</td><td>21.1 °C</td><td>21.2 °C</td><td>21.2 °C</td><td>21.4 °C</td><td>21.5 °C</td><td>21.5 °C</td><td>21.5 °C</td><td>21.6 °C</td><td>21.7 °C</td><td>21.7 °C</td><td>21.7 °C</td><td>21.7 °C</td><td>21.6 °C</td><td>21.7 °C</td><td>21.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>6.8 kph</td><td>5 kph</td><td>2.5 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>13 kph</td><td>16.6 kph</td><td>19.4 kph</td><td>20.5 kph</td><td>21.6 kph</td><td>23 kph</td><td>23 kph</td><td>23 kph</td><td>22.7 kph</td><td>22 kph</td><td>21.2 kph</td><td>20.2 kph</td><td>21.2 kph</td><td>21.2 kph</td><td>22 kph</td><td>22 kph</td><td>21.6 kph</td><td>20.9 kph</td>
+        <td>3.6 kph</td><td>4.3 kph</td><td>6.5 kph</td><td>10.4 kph</td><td>9 kph</td><td>11.5 kph</td><td>13.7 kph</td><td>16.6 kph</td><td>18 kph</td><td>19.8 kph</td><td>20.5 kph</td><td>22 kph</td><td>20.9 kph</td><td>20.5 kph</td><td>22 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>20.2 kph</td><td>20.9 kph</td><td>21.6 kph</td><td>21.6 kph</td><td>21.6 kph</td><td>20.9 kph</td><td>20.2 kph</td>
     </tr>
 </table>
 
@@ -44,24 +44,24 @@ Smoky haze
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Smoky haze</td><td width="200px">Smoky haze</td><td width="200px">Overcast</td>
+        <td width="200px">Smoky haze</td><td width="200px">Smoky haze</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.8 -  29 °C</td><td>21.4 -  22.2 °C</td><td>21 -  21.9 °C</td>
+        <td>20.7 -  21.7 °C</td><td>21.3 -  22 °C</td><td>20.9 -  21.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23 kph</td><td>27.7 kph</td><td>28.8 kph</td>
+        <td>22 kph</td><td>23.8 kph</td><td>33.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-08-17T07:59:36Z*
+*Updated at: 2026-08-17T08:57:57Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
