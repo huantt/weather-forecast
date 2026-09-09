@@ -29,7 +29,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>5 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>8.6 kph</td>
+        <td>9.4 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>5 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4 kph</td><td>5 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2026-09-08T21:49:08Z*
+*Updated at: 2026-09-09T00:10:55Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
