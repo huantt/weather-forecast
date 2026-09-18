@@ -29,7 +29,7 @@ Mist
     </tr>
     <tr>
         <th>Wind</th>
-        <td>0.4 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>8.6 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>10.4 kph</td><td>9 kph</td><td>9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>5 kph</td>
+        <td>0.4 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>8.6 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>10.4 kph</td><td>9 kph</td><td>9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>5 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Mist
 </table>
 
 
-*Updated at: 2026-09-17T21:18:52Z*
+*Updated at: 2026-09-18T00:13:37Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
