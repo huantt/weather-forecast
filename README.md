@@ -29,7 +29,7 @@ Smoky haze
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.6 kph</td><td>7.2 kph</td><td>5 kph</td><td>3.6 kph</td><td>0.7 kph</td><td>2.5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4 kph</td><td>1.1 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>4.7 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td>
+        <td>8.6 kph</td><td>7.2 kph</td><td>5 kph</td><td>2.9 kph</td><td>0.7 kph</td><td>2.5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4 kph</td><td>1.1 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>4.7 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
@@ -61,7 +61,7 @@ Smoky haze
 </table>
 
 
-*Updated at: 2026-09-21T21:01:55Z*
+*Updated at: 2026-09-22T00:04:19Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
