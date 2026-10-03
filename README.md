@@ -61,7 +61,7 @@ Thundery outbreaks in nearby
 </table>
 
 
-*Updated at: 2026-10-03T19:50:57Z*
+*Updated at: 2026-10-03T22:52:26Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
