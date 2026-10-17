@@ -61,7 +61,7 @@ Smoky haze
 </table>
 
 
-*Updated at: 2026-10-17T01:16:32Z*
+*Updated at: 2026-10-17T06:52:47Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
