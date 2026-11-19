@@ -25,11 +25,11 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.2 °C</td><td>19.8 °C</td><td>19.5 °C</td><td>19.2 °C</td><td>18.6 °C</td><td>18.6 °C</td><td>18.7 °C</td><td>18.8 °C</td><td>19.1 °C</td><td>19.5 °C</td><td>19.9 °C</td><td>20.4 °C</td><td>21.2 °C</td><td>21.9 °C</td><td>22 °C</td><td>21.9 °C</td><td>21.7 °C</td><td>21.2 °C</td><td>20.9 °C</td><td>20.6 °C</td><td>20 °C</td><td>19.5 °C</td><td>19.2 °C</td><td>18.9 °C</td>
+        <td>20.2 °C</td><td>19.8 °C</td><td>19.5 °C</td><td>19.2 °C</td><td>18.6 °C</td><td>18.6 °C</td><td>18.7 °C</td><td>18.8 °C</td><td>19.1 °C</td><td>19.5 °C</td><td>19.9 °C</td><td>20.3 °C</td><td>20.8 °C</td><td>21.2 °C</td><td>21.3 °C</td><td>21.3 °C</td><td>21.2 °C</td><td>20.9 °C</td><td>20.7 °C</td><td>20.5 °C</td><td>20.2 °C</td><td>19.7 °C</td><td>19.3 °C</td><td>18.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.1 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>13 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>14.4 kph</td><td>15.5 kph</td>
+        <td>15.1 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>9 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>14 kph</td><td>15.1 kph</td>
     </tr>
 </table>
 
@@ -44,24 +44,24 @@ Overcast
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast</td><td width="200px">Patchy rain nearby</td><td width="200px">Smoky haze</td>
+        <td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Smoky haze</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.6 -  22 °C</td><td>15.8 -  18.6 °C</td><td>14.9 -  18.4 °C</td>
+        <td>18.6 -  21.3 °C</td><td>15.4 -  18.4 °C</td><td>14.7 -  19.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.5 kph</td><td>18.7 kph</td><td>11.9 kph</td>
+        <td>15.1 kph</td><td>18 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-11-19T03:19:23Z*
+*Updated at: 2026-11-19T12:56:47Z*
 
 ## GitHub Actions: Embed up-to-date Weather in your README
 <details>
